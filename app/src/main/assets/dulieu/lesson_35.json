@@ -1,0 +1,43 @@
+{
+  "lesson_35": [
+    {
+      "detail": "Chị Anna cùng với anh Kenta thưởng thức sushi tươi ngon tại quán sushi băng chuyền.",
+      "main_audio": "le35_v_scall.mp3",
+      "grammar": "Số đếm (P3)\n\n100 HYAKU\n200 NIHYAKU\n1000 SEN\n2000 NISEN\n10000 ICHIMAN\n20000 NIMAN\n90000 KYÛMAN",
+      "dialogue": [
+        {
+          "kana_name": "健太",
+          "romaji_name": "Kenta",
+          "kana": "お勘定をお願いします。",
+          "romaji": "OKANJÔ O ONEGAI SHIMASU.",
+          "vn": "Làm ơn cho tôi thanh toán.",
+          "audio": "le35_v_sc01.mp3"
+        },
+        {
+          "kana_name": "店員",
+          "romaji_name": "Nhân viên cửa hàng",
+          "kana": "全部で５２００円です。",
+          "romaji": "ZENBU DE GOSEN NIHYAKU EN DESU.",
+          "vn": "Tất cả là 5.200 yen ạ.",
+          "audio": "le35_v_sc02.mp3"
+        },
+        {
+          "kana_name": "健太",
+          "romaji_name": "Kenta",
+          "kana": "クレジットカードは使えますか。",
+          "romaji": "KUREJITTO KÂDO WA TSUKAEMASU KA.",
+          "vn": "Tôi có thể trả bằng thẻ tín dụng được không?",
+          "audio": "le35_v_sc03.mp3"
+        },
+        {
+          "kana_name": "店員",
+          "romaji_name": "Nhân viên cửa hàng",
+          "kana": "はい、使えます。",
+          "romaji": "HAI, TSUKAEMASU.",
+          "vn": "Vâng, được ạ.",
+          "audio": "le35_v_sc04.mp3"
+        }
+      ]
+    }
+  ]
+}

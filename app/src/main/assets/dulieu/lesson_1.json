@@ -1,0 +1,46 @@
+{
+  "lesson_1":
+  [
+    {
+	  "detail" : "Chị Anna là một du học sinh người Thái Lan. Hôm nay, chị Anna lần đầu tiên gặp chị Sakura, sinh viên hướng dẫn chị tại trường.",
+      "main_audio" : "le1_v_scall.mp3",
+        "grammar" : "A は B です。 (A là B)\n\nWA là trợ từ để biểu thị rằng danh từ đứng trước nó là chủ đề của câu. DESU đứng sau danh từ B. B thêm DESU thành vị ngữ.\nVí dụ: WATASHI  WA  ANNA  DESU. (Tôi là Anna.)",
+      
+      "dialogue" : 
+      [
+        {
+  	      "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "はじめまして。私はアンナです。",
+            "romaji" : "HAJIMEMASHITE. WATASHI WA ANNA DESU.",
+          "vn" : "Xin chào. Tôi là Anna.",
+          "audio" : "le1_v_sc01.mp3"
+        },
+        {
+  	      "kana_name" : "さくら",
+	      "romaji_name" : "Sakura",
+          "kana" : "はじめまして。さくらです。",
+          "romaji" : "HAJIMEMASHITE. SAKURA DESU.",
+          "vn" : "Xin chào. Tôi là Sakura.",
+          "audio" : "le1_v_sc02.mp3"
+        },
+         {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "よろしくお願いします。",
+          "romaji" : "YOROSHIKU ONEGAI SHIMASU.",
+          "vn" : "Rất hân hạnh được làm quen.",   
+          "audio" : "le1_v_sc03.mp3"
+        },
+        {
+          "kana_name" : "さくら",
+	       "romaji_name" : "Sakura",
+          "kana" : "こちらこそ。",
+          "romaji" : "KOCHIRAKOSO.",
+          "vn" : "Tôi cũng rất hân hạnh được gặp chị.",
+          "audio" : "le1_v_sc04.mp3"
+        }
+      ]
+    }
+  ]
+}

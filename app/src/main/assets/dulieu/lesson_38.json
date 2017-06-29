@@ -1,0 +1,38 @@
+{
+  "lesson_38": [
+    {
+      "detail": "Sáng nay khi thức dậy, chị Anna thấy mệt lử và bị sốt. Người quản lí kí túc xá đưa chị đến bệnh viện bằng taxi.",
+      "main_audio": "le38_v_scall.mp3",
+      "grammar": "Kính ngữ\n\Kính ngữ được dùng khi bạn đang nói chuyện với, hoặc nói về những người lớn tuổi hơn, có thâm niên/cấp bậc cao hơn, thày cô giáo, khách hàng. Ngoài ra, bạn cũng dùng kính ngữ với những người mà bạn không biết hoặc không biết rõ. Kể cả với những người mà bạn thường nói chuyện thân mật thì trong những dịp chính thức, ví dụ như trong các cuộc họp về công việc, bạn vẫn sử dụng cách nói kính ngữ. Vì vậy, điều quan trọng phải lưu ý là bối cảnh nơi bạn nói.
+      \nCó 2 thể kính ngữ của động từ.
+      \nMột là “thể tôn kính”. Dùng thể này để chỉ hành động hay trạng thái của người bạn đang nói chuyện hoặc đang nói tới sẽ thể hiện được sự kính trọng với người đó.\nVí dụ, thể tôn kính của MIMASU, “xem/ngắm”, là GORAN NI NARIMASU.\nThứ hai là “thể khiêm nhường” được dùng khi nói về hành động hoặc trạng thái của bản thân. Dùng cách nói khiêm tốn về bản thân sẽ thể hiện được sự kính trọng với người khác. Trong đoạn hội thoại, khi người lái taxi muốn nói “tôi hiểu rồi”, anh không nói WAKARIMASHITA, mà nói KASHIKOMARIMASHITA. Đây là cách nói khiêm nhường. 
+      \nCó thể bạn sẽ thấy cách nói kính ngữ hơi khó nhưng cũng đừng lo lắng. Trong hội thoại thông thường, bạn chỉ cần dùng thể MASU của động từ là đủ lịch sự rồi. ",
+      "dialogue": [
+        {
+          "kana_name": "寮母",
+          "romaji_name": "Người quản lí kí túc xá",
+          "kana": "市民病院までお願いします。",
+          "romaji": "SHIMIN BYÔIN MADE ONEGAI SHIMASU.",
+          "vn": "Xin hãy chở chúng tôi tới Bệnh viện Thành phố.",
+          "audio": "le38_v_sc01.mp3"
+        },
+        {
+          "kana_name": "運転手",
+          "romaji_name": "Lái xe",
+          "kana": "かしこまりました。",
+          "romaji": "KASHIKOMARIMASHITA.",
+          "vn": "Vâng, tôi hiểu rồi ạ.",
+          "audio": "le38_v_sc02.mp3"
+        },
+        {
+          "kana_name": "寮母",
+          "romaji_name": "Người quản lí kí túc xá",
+          "kana": "まっすぐ行って、３つ目の信号を左に曲がってください。",
+          "romaji": "MASSUGU ITTE, MITTSU ME NO SHINGÔ O HIDARI NI MAGATTE KUDASAI.",
+          "vn": "Anh hãy đi thẳng, rồi rẽ trái ở chỗ đèn xanh đèn đỏ thứ 3.",
+          "audio": "le38_v_sc03.mp3"
+        }
+      ]
+    }
+  ]
+}

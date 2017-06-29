@@ -1,0 +1,45 @@
+{
+  "lesson_7":
+  [
+    {
+	  "detail" : "Chị Anna đến hiệu bánh cùng với chị Sakura.",
+      "main_audio" : "le7_v_scall.mp3",
+      "grammar" : "TSU: từ dùng để đếm (1つ 2つ 3つ)\n\nNếu từ dùng để đếm đứng đằng sau là TSU thì cách đếm số từ 1 đến 10 thay đổi. Số 10 đặc biệt hơn cả là không có TSU đằng sau, mà chỉ nói là TÔ.\nVí dụ: 1つ-HITOTSU; 2つ-FUTATSU; 3つ-MITTSU; 4つ-YOTTSU; 5つ-ITSUTSU; 6つ-MUTTSU; 7つ-NANATSU; 8つ-YATTSU; 9つ-KOKONOTSU; 10-TÔ",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "ケーキがいっぱいありますね。",
+          "romaji" : "KÊKI GA IPPAI ARIMASU NE.",
+          "vn" : "Có nhiều bánh nhỉ!",   
+          "audio" : "le7_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "すみません、シュークリームはありますか。",
+          "romaji" : "SUMIMASEN, SHÛKURÎMU WA ARIMASU KA.",
+          "vn" : "Xin lỗi cho tôi hỏi, có bánh su kem không ạ?", 
+          "audio" : "le7_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "店員",
+  	      "romaji_name" : "Nhân viên cửa hàng",
+          "kana" : "はい、こちらです。",
+          "romaji" : "HAI, KOCHIRA DESU.",
+          "vn" : "Có, ở đằng này ạ.",   
+          "audio" : "le7_v_sc03.mp3"
+        },
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "シュークリームを２つください。",
+          "romaji" : "SHÛKURÎMU O FUTATSU KUDASAI.",
+          "vn" : "Xin cho tôi 2 chiếc bánh su kem.",   
+          "audio" : "le7_v_sc04.mp3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+﻿{
+	"rau_cu":
+	[
+		{
+			"kanji" : "",
+			"kana" : "インゲン",
+			"romaji" : "Ingen",
+			"vn" : "Đậu Cove"
+		},
+		{
+			"kanji" : "",
+			"kana" : "きゅうり",
+			"romaji" : "Kyuuri",
+			"vn" : "Dưa leo"
+		},
+		{
+			"kanji" : "",
+			"kana" : "竹の子",
+			"romaji" : "Take-no-ko",
+			"vn" : "Măng"
+		},
+		{
+			"kanji" : "",
+			"kana" : "キノコ",
+			"romaji" : "Kinoko",
+			"vn" : "Nấm rơm"
+		},
+		{
+			"kanji" : "椎茸",
+			"kana" : "",
+			"romaji" : "Shiitake",
+			"vn" : "Nấm hương"
+		},
+		{
+			"kanji" : "木耳",
+			"kana" : "",
+			"romaji" : "Kikurage",
+			"vn" : "Mộc nhĩ"
+		},
+		{
+			"kanji" : "",
+			"kana" : "えりんぎ",
+			"romaji" : "Eringi",
+			"vn" : "Nấm đùi gà"
+		},
+		{
+			"kanji" : "",
+			"kana" : "えのき",
+			"romaji" : "Enoki",
+			"vn" : "Nấm kim châm"
+		},
+		{
+			"kanji" : "松茸",
+			"kana" : "",
+			"romaji" : "Matsutake",
+			"vn" : "Nấm thông"
+		},
+		{
+			"kanji" : "",
+			"kana" : "レタス",
+			"romaji" : "Retasu",
+			"vn" : "Rau xà lách"
+		},
+		{
+			"kanji" : "",
+			"kana" : "キャベツ",
+			"romaji" : "Kyabetsu",
+			"vn" : "Rau cải bắp"
+		},
+		{
+			"kanji" : "白菜",
+			"kana" : "",
+			"romaji" : "Hakusai",
+			"vn" : "Rau cải thảo"
+		},
+		{
+			"kanji" : "水菜",
+			"kana" : "",
+			"romaji" : "Mizuna",
+			"vn" : "Rau cần "
+		},
+		{
+			"kanji" : "青梗菜",
+			"kana" : "",
+			"romaji" : "Chingensai",
+			"vn" : "Rau cải chíp"
+		},
+		{
+			"kanji" : "空心菜",
+			"kana" : "",
+			"romaji" : "kuushinsai",
+			"vn" : "Rau muống"
+		},
+		{
+			"kanji" : "ホウレン草",
+			"kana" : "",
+			"romaji" : "hourensou",
+			"vn" : "Rau cải Nhật"
+		},
+		{
+			"kanji" : "",
+			"kana" : "スクワッシュ",
+			"romaji" : "Sukuwasshu",
+			"vn" : "Bí rổ "
+		},
+		{
+			"kanji" : "",
+			"kana" : "かぼちゃ",
+			"romaji" : "Kabocha",
+			"vn" : "Bí"
+		},
+		{
+			"kanji" : "",
+			"kana" : "とろろいも",
+			"romaji" : "Tororo-imo",
+			"vn" : "Khoai mỡ trắng"
+		},
+		{
+			"kanji" : "",
+			"kana" : "タロイモ",
+			"romaji" : "Taro-imo",
+			"vn" : "Khoai sọ"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ジャガイモ",
+			"romaji" : "Jaga-imo",
+			"vn" : "Khoai tây"
+		},
+		{
+			"kanji" : "",
+			"kana" : "サツマイモ",
+			"romaji" : "Satsuma-imo",
+			"vn" : "Khoai lang"
+		},
+		{
+			"kanji" : "",
+			"kana" : "かぶ",
+			"romaji" : "Kabu",
+			"vn" : "Củ cải tây"
+		},
+		{
+			"kanji" : "",
+			"kana" : "にんじん",
+			"romaji" : "Ninjin",
+			"vn" : "Cà rốt "
+		},
+		{
+			"kanji" : "大根",
+			"kana" : "",
+			"romaji" : "Daikon",
+			"vn" : " Củ cải "
+		},
+		{
+			"kanji" : "",
+			"kana" : "なす",
+			"romaji" : "Nasu",
+			"vn" : " Cà tím "
+		},
+		{
+			"kanji" : "",
+			"kana" : "トマト",
+			"romaji" : "Tomato",
+			"vn" : "Cà chua"
+		},
+		{
+			"kanji" : "豆",
+			"kana" : "まめ",
+			"romaji" : "Mame",
+			"vn" : " Đậu hột"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ピーナッツ",
+			"romaji" : "Piinattsu",
+			"vn" : "Đậu phộng"
+		},
+		{
+			"kanji" : "",
+			"kana" : "グリーンピース",
+			"romaji" : "Guriin piisu",
+			"vn" : " Đậu Hà Lan"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ゴーヤ",
+			"romaji" : "Gouya",
+			"vn" : "Mướp đắng"
+		},
+		{
+			"kanji" : "ハスの実",
+			"kana" : "",
+			"romaji" : "Hasu-no-mi",
+			"vn" : "Hạt sen"
+		},
+		{
+			"kanji" : "",
+			"kana" : "レンコン",
+			"romaji" : "Renkon",
+			"vn" : "Củ sen"
+		},
+		{
+			"kanji" : "ハスの根",
+			"kana" : "",
+			"romaji" : "Hasu-no-ne",
+			"vn" : "Ngó sen"
+		},
+		{
+			"kanji" : "",
+			"kana" : "アスパラガス",
+			"romaji" : "Asuparagasu",
+			"vn" : "Măng tây"
+		},
+		{
+			"kanji" : "",
+			"kana" : "オクラ",
+			"romaji" : "Okura",
+			"vn" : "Đậu bắp"
+		},
+		{
+			"kanji" : "",
+			"kana" : "へちま",
+			"romaji" : "Hechima",
+			"vn" : "Mướp"
+		},
+		{
+			"kanji" : "",
+			"kana" : "もやし",
+			"romaji" : "Moyashi",
+			"vn" : "Giá đỗ"
+		},
+		{
+			"kanji" : "長ねぎ",
+			"kana" : "",
+			"romaji" : "Naganegi",
+			"vn" : "Hành lá"
+		},
+		{
+			"kanji" : "玉ねぎ",
+			"kana" : "",
+			"romaji" : "Tamanegi",
+			"vn" : "Hành tây"
+		},
+		{
+			"kanji" : "",
+			"kana" : "きくらげ",
+			"romaji" : "Kikurage",
+			"vn" : "Nấm mèo"
+		},
+		{
+			"kanji" : "",
+			"kana" : "しいたけ",
+			"romaji" : "Shiitake",
+			"vn" : "Nấm đông cô"
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+  "lesson_31": [
+    {
+      "detail": "Chị Anna đến thăm nhà bà của chị Sakura ở thành phố Shizuoka. Bà còn rất khỏe mạnh. Bà sống một mình và ngày ngày chăm sóc vườn rau.",
+      "main_audio": "le31_v_scall.mp3",
+      "grammar": "Số đếm (P2)\n\n10 JÛ\n11 JÛICHI\n12 JÛNI\n13 JÛSAN\n14 JÛSHI, JÛYON\n15 JÛGO\n16 JÛROKU\n17 JÛNANA, JÛSHICHI\n18 JÛHACHI\n19 JÛKYÛ, JÛKU\n20 NIJÛ\n20 NIJÛ\n30 SANJÛ\n40 YONJÛ\n50 GOJÛ\n60 ROKUJÛ\n70 NANAJÛ\n80 HACHIJÛ\n90 KYÛJÛ",
+      "dialogue": [
+        {
+          "kana_name": "アンナ",
+          "romaji_name": "Anna",
+          "kana": "おばあさん、お元気ですね。",
+          "romaji": "OBÂSAN, OGENKI DESU NE.",
+          "vn": "Bà ơi, trông bà còn khỏe quá ạ!",
+          "audio": "le31_v_sc01.mp3"
+        },
+        {
+          "kana_name": "おばあさん",
+          "romaji_name": "Bà",
+          "kana": "もう８２歳ですよ。さあ、お茶をどうぞ。",
+          "romaji": "MÔ HACHIJÛNI SAI DESU YO. SÂ, OCHA O DÔZO.",
+          "vn": "Bà đã 82 tuổi rồi đấy. Nào, cháu uống trà đi.",
+          "audio": "le31_v_sc02.mp3"
+        },
+        {
+          "kana_name": "アンナ",
+          "romaji_name": "Anna",
+          "kana": "わあ、きれいな緑色。香りもいいです。",
+          "romaji": "WÂ, KIREINA MIDORI IRO. KAORI MO II DESU.",
+          "vn": "Ồ, màu xanh lục đẹp quá! Hương cũng thơm.",
+          "audio": "le31_v_sc03.mp3"
+        }
+      ]
+    }
+  ]
+}

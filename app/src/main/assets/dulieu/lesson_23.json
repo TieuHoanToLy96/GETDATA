@@ -1,0 +1,45 @@
+{
+  "lesson_23":
+  [
+    {
+	  "detail" : "Chị Anna và chị Sakura đang nói chuyện với nhau ở trường. Chị Sakura hỏi thăm chị Anna về tình hình hôm đi về muộn.",
+      "main_audio" : "le23_v_scall.mp3",
+      "grammar" : "__MASEN DESHITA\n\nĐể đổi động từ ở thể MASU sang thể phủ định ở quá khứ thì thay MASU bằng MASEN DESHITA\nVí dụ: MANIAIMASU (kịp)\n>> thể phủ định: MANIAIMASEN (không kịp)\n>> thể phủ định ở quá khứ:  MANIAIMASEN DESHITA (đã không kịp)",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "この間は門限に間に合った？",
+          "romaji" : "KONOAIDA WA MONGEN NI MANIATTA?",
+          "vn" : "Hôm trước có kịp giờ đóng cửa kí túc xá không?",
+          "audio" : "le23_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "いいえ。間に合いませんでした。それで、お母さんに叱られました。",
+          "romaji" : "IIE. MANIAIMASEN DESHITA. SOREDE, OKÂSAN NI SHIKARAREMASHITA.",
+          "vn" : "Không ạ. Em đã không về kịp. Vì thế, em đã bị Mẹ mắng.", 
+          "audio" : "le23_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "掃除当番が３回増えました。",
+          "romaji" : "SÔJI TÔBAN GA SANKAI FUEMASHITA.",
+          "vn" : "Em phải làm nhiệm vụ dọn dẹp thêm 3 lần.", 
+          "audio" : "le23_v_sc03.mp3"
+        },
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "それは大変だったね。",
+          "romaji" : "SORE WA TAIHEN DATTA NE.",
+          "vn" : "Thế thì khổ thân nhỉ!", 
+          "audio" : "le23_v_sc04.mp3"
+        }
+      ]
+    }
+  ]
+}

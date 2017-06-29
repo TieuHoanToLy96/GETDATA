@@ -1,0 +1,35 @@
+{
+  "lesson_43": [
+    {
+      "detail": "Chị Anna đang trong chuyến tham quan học tập của trường đại học. Hôm nay, chị đến thăm Thành Himeji ở tỉnh Hyogo.",
+      "main_audio": "le43_v_scall.mp3",
+      "grammar": "DÔSHITE DESHÔ KA\n“Theo các em, tại sao lại như vậy?”\n\nDÔSHITE là “tại sao”. Khi hỏi một cách trang trọng thì dùng NAZE. Ví dụ: NAZE DESHÔ KA.",
+      "dialogue": [
+        {
+          "kana_name": "先生",
+          "romaji_name": "Thầy giáo",
+          "kana": "姫路城は奇跡の城と言われています。 どうしてでしょうか。",
+          "romaji": "HIMEJI-JÔ WA KISEKI NO SHIRO TO IWARETE IMASU. DÔSHITE DESHÔ KA.",
+          "vn": "Thành Himeji được gọi là một ngôi thành kì diệu. Theo các em, tại sao lại như vậy?",
+          "audio": "le43_v_sc01.mp3"
+        },
+        {
+          "kana_name": "ロドリゴ",
+          "romaji_name": "Rodrigo",
+          "kana": "戦争でも焼けなかったからです。",
+          "romaji": "SENSÔ DEMO YAKENAKATTA KARA DESU.",
+          "vn": "Bởi vì ngay cả trong chiến tranh, nó chưa bao giờ bị cháy ạ.",
+          "audio": "le43_v_sc02.mp3"
+        },
+        {
+          "kana_name": "アンナ",
+          "romaji_name": "Anna",
+          "kana": "さすが、ロドリゴ！",
+          "romaji": "SASUGA, RODORIGO!",
+          "vn": "Rodrigo giỏi quá!",
+          "audio": "le43_v_sc03.mp3"
+        }
+      ]
+    }
+  ]
+}

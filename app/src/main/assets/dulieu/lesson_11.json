@@ -1,0 +1,29 @@
+{
+  "lesson_11":
+  [
+    {
+	  "detail" : "Kí túc xá dành cho du học sinh nơi chị Anna sống sẽ có một bữa tiệc. Chị Anna mời chị Sakura tham dự.",
+      "main_audio" : "le11_v_scall.mp3",
+      "grammar" : "Các thứ trong tuần:\n\nGETSUYÔBI (Thứ Hai)\nKAYÔBI (Thứ Ba)\nSUIYÔBI (Thứ Tư)\nMOKUYÔBI (Thứ Năm)\nKINYÔBI (Thứ Sáu)\nDOYÔBI (Thứ Bảy)\nNICHIYÔBI (Chủ Nhật)\n\nIKIMASU và KIMASU\n\nTrong tiếng Nhật, chúng ta dùng động từ khác nhau, tùy vào vị trí của người nói.\nVD: Bạn A: IKIMASU >> Bạn B: KITE KUDASAI",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "今週の土曜日に寮でパーティーを開きます。さくらさん、ぜひ来てください。",
+          "romaji" : "KONSHÛ NO DOYÔBI NI RYÔ DE PÂTÎ O HIRAKIMASU. SAKURA-SAN, ZEHI KITE KUDASAI.",
+          "vn" : "Vào thứ Bảy tuần này, chúng tôi sẽ mở tiệc tại kí túc xá. Chị Sakura ơi, chị nhất định đến nhé!", 
+          "audio" : "le11_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "わあ、行く行く。今度の土曜日ね。",
+          "romaji" : "WÂ, IKU IKU.KONDO NO DOYÔBI NE.",
+          "vn" : "Ồ, đi chứ, đi chứ! Thứ Bảy này có phải không?", 
+          "audio" : "le11_v_sc02.mp3"
+        }
+      ]
+    }
+  ]
+}

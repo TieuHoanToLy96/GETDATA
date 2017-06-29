@@ -1,0 +1,43 @@
+{
+  "lesson_39": [
+    {
+      "detail": "Chị Anna không được khỏe và đã được người quản lí kí túc xá đưa đến bệnh viện để bác sĩ khám.",
+      "main_audio": "le39_v_scall.mp3",
+      "grammar": "Các triệu chứng bệnh\n\nCách nói các triệu chứng bệnh khác nhau:\nATAMA GA ITAI DESU. (Tôi bị đau đầu.)\nHANAMIZU GA DEMASU. (Tôi bị sổ mũi.)\nONAKA GA ITAI DESU. (Tôi bị đau bụng.)",
+      "dialogue": [
+        {
+          "kana_name": "医者",
+          "romaji_name": "Bác sĩ",
+          "kana": "どうしましたか。",
+          "romaji": "DÔ SHIMASHITA KA.",
+          "vn": "Chị bị làm sao vậy?",
+          "audio": "le39_v_sc01.mp3"
+        },
+        {
+          "kana_name": "アンナ",
+          "romaji_name": "Anna",
+          "kana": "せきが出ます。",
+          "romaji": "SEKI GA DEMASU.",
+          "vn": "Tôi bị ho.",
+          "audio": "le39_v_sc02.mp3"
+        },
+        {
+          "kana_name": "寮母",
+          "romaji_name": "Người quản lí kí túc xá",
+          "kana": "熱も３７．８度あります。",
+          "romaji": "NETSU MO SANJÛNANA TEN HACHI DO ARIMASU.",
+          "vn": "Cô ấy cũng bị sốt 37,8 độ.",
+          "audio": "le39_v_sc03.mp3"
+        },
+        {
+          "kana_name": "医者",
+          "romaji_name": "Bác sĩ",
+          "kana": "喉を見せてください。かぜだと思います。",
+          "romaji": "NODO O MISETE KUDASAI. KAZE DA TO OMOIMASU.",
+          "vn": "Để tôi khám họng. Tôi nghĩ là chị bị cảm lạnh.",
+          "audio": "le39_v_sc04.mp3"
+        }
+      ]
+    }
+  ]
+}

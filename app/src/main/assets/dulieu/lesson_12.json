@@ -1,0 +1,45 @@
+{
+  "lesson_12":
+  [
+    {
+	  "detail" : "Hôm nay tại kí túc xá dành cho du học sinh mà chị Anna sống có một bữa tiệc dành cho các sinh viên người nước ngoài. Chị Anna giới thiệu anh Rodrigo, bạn cùng lớp người Mexico với chị Sakura.",
+      "main_audio" : "le12_v_scall.mp3",
+      "grammar" : "Các tháng trong năm (1月(がつ), 2月, 3月):\n\nICHIGATSU (Tháng 1)\nNIGATSU (Tháng 2)\nSANGATSU (Tháng 3)\nSHIGATSU (Tháng 4)\nGOGATSU (Tháng 5)\nROKUGATSU (Tháng 6)\nSHICHIGATSU (Tháng 7)\nHACHIGATSU (Tháng 8)\nKUGATSU (Tháng 9)\nJÛGATSU (Tháng 10)\nJÛICHIGATSU (Tháng 11)\nJÛNIGATSU (Tháng 12)",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "ロドリゴさんはいつ日本に来ましたか。",
+          "romaji" : "RODORIGO-SAN WA ITSU NIHON NI KIMASHITA KA.",
+          "vn" : "Anh Rodrigo này, anh đến Nhật Bản khi nào?", 
+          "audio" : "le12_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "ロドリゴ",
+  	      "romaji_name" : "Rodrigo",
+          "kana" : "３月に来ました。",
+          "romaji" : "SANGATSU NI KIMASHITA.",
+          "vn" : "Tôi đến hồi tháng 3.", 
+          "audio" : "le12_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "もう日本の生活に慣れた？",
+          "romaji" : "MÔ NIHON NO SEIKATSU NI NARETA?",
+          "vn" : "Anh đã quen với cuộc sống ở Nhật Bản chưa?", 
+          "audio" : "le12_v_sc03.mp3"
+        },
+        {
+          "kana_name" : "ロドリゴ",
+  	      "romaji_name" : "Rodrigo",
+          "kana" : "ええ、まあ。",
+          "romaji" : "Ê, MÂ.",
+          "vn" : "Vâng, tôi cũng hơi quen rồi.", 
+          "audio" : "le12_v_sc04.mp3"
+        }
+      ]
+    }
+  ]
+}

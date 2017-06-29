@@ -1,0 +1,113 @@
+﻿{
+	"tinh_yeu":
+	[
+		{
+			"kanji" : "恋愛",
+			"kana" : "れんあい",
+			"romaji" : "Renai",
+			"vn" : "Tình yêu nam nữ"
+		},
+		{
+			"kanji" : "恋人",
+			"kana" : "こいびと",
+			"romaji" : "Koibito",
+			"vn" : "Người yêu"
+		},
+		{
+			"kanji" : "愛情",
+			"kana" : "あいじょう",
+			"romaji" : "Aijou",
+			"vn" : "Tình yêu thương"
+		},
+		{
+			"kanji" : "初恋",
+			"kana" : "はつこい",
+			"romaji" : "Hatsukoi",
+			"vn" : "Mối tình đầu"
+		},
+		{
+			"kanji" : "恋敵",
+			"kana" : "こいがたき",
+			"romaji" : "Koigataki",
+			"vn" : "Tình địch"
+		},
+		{
+			"kanji" : "失恋",
+			"kana" : "しつれん",
+			"romaji" : "Shitsuren",
+			"vn" : "Thất tình"
+		},
+		{
+			"kanji" : "恋する",
+			"kana" : "こいする",
+			"romaji" : "Koisuru",
+			"vn" : "Yêu, phải lòng"
+		},
+		{
+			"kanji" : "",
+			"kana" : "デートをする",
+			"romaji" : "Dēto o suru",
+			"vn" : "Hẹn hò"
+		},
+		{
+			"kanji" : "約束する",
+			"kana" : "やくそくする",
+			"romaji" : "Yakusoku suru",
+			"vn" : "Hẹn hò, hứa hẹn"
+		},
+		{
+			"kanji" : "約束を忘れる",
+			"kana" : "やくそくをわすれる",
+			"romaji" : "Yakusoku o wasureru",
+			"vn" : "Quên hẹn"
+		},
+		{
+			"kanji" : "約束を破る",
+			"kana" : "やくそくをやぶる",
+			"romaji" : "Yakusoku o yaburu",
+			"vn" : "Không giữ hẹn"
+		},
+		{
+			"kanji" : "",
+			"kana" : "けんかする",
+			"romaji" : "Kenka suru",
+			"vn" : "Cãi nhau"
+		},
+		{
+			"kanji" : "仲直りする",
+			"kana" : "なかなおりする",
+			"romaji" : "Nakanaori suru",
+			"vn" : "Làm lành, hòa giải"
+		},
+		{
+			"kanji" : "世話になる",
+			"kana" : "せわになる",
+			"romaji" : "Sewa ni naru",
+			"vn" : "Được chăm sóc"
+		},
+		{
+			"kanji" : "世話をする",
+			"kana" : "せわをする",
+			"romaji" : "Sewa o suru",
+			"vn" : "Chăm sóc"
+		},
+		{
+			"kanji" : "プレゼントを渡す",
+			"kana" : "プレゼントをわたす",
+			"romaji" : "Purezento o watasu",
+			"vn" : "Tặng quà"
+		},
+		{
+			"kanji" : "悲恋",
+			"kana" : "ひれん",
+			"romaji" : "Hiren",
+			"vn" : "Tình yêu mù quáng"
+		},
+		{
+			"kanji" : "恋文",
+			"kana" : "こいぶみ",
+			"romaji" : "Koibumi",
+			"vn" : "Thư tình"
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+  "lesson_4":
+  [
+    {
+	  "detail" : "Hôm nay chị Anna dẫn chị Sakura về kí túc xá nơi chị ở. Người quản lý kí túc xá ra chào họ. Bà là người chăm nom các sinh viên ở kí túc xá, và gần như là một người mẹ của họ.",
+      "main_audio" : "le4_v_scall.mp3",
+      "grammar" : "__DEWA ARIMASEN\n\nDESU là từ lịch sự để kết thúc câu.\nVí dụ: HAI, WATASHI WA NIHON-JIN DESU. (Vâng, tôi là người Nhật).\n\nĐể biến một câu kết thúc bằng DESU thành câu phủ định, thì đổi DESU thành DEWA ARIMASEN. (Tôi không phải là người Nhật.)",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "ただいま。",
+          "romaji" : "TADAIMA.",
+          "vn" : "Con đã về.",   
+          "audio" : "le4_v_sc01.mp3"
+        },
+        {
+  	      "kana_name" : "寮母",
+	      "romaji_name" : "Người quản lí kí túc xá",
+          "kana" : "お帰りなさい。",
+          "romaji" : "OKAERINASAI.",
+          "vn" : "Con đã về đấy à.",
+          "audio" : "le4_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "こんにちは。",
+          "romaji" : "KONNICHIWA.",
+          "vn" : "Cháu chào bác.",   
+          "audio" : "le4_v_sc03.mp3"
+        },
+        {
+  	      "kana_name" : "寮母",
+	      "romaji_name" : "Người quản lí kí túc xá",
+          "kana" : "あなたも留学生ですか。",
+          "romaji" : "ANATA MO RYÛGAKUSEI DESU KA.",
+          "vn" : "Cháu cũng là du học sinh à?",
+          "audio" : "le4_v_sc04.mp3"
+        },
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "いいえ、私は留学生ではありません。日本人の学生です。",
+          "romaji" : "IIE, WATASHI WA RYÛGAKUSEI DEWA ARIMASEN. NIHON-JIN NO GAKUSEI DESU.",
+          "vn" : "Không, cháu không phải là du học sinh. Cháu là sinh viên người Nhật.",   
+          "audio" : "le4_v_sc05.mp3"
+        }
+      ]
+    }
+  ]
+}

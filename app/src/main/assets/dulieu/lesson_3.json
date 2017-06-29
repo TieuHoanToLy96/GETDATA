@@ -1,0 +1,53 @@
+{
+  "lesson_3":
+  [
+    {
+	  "detail" : "Hôm nay, chị Sakura dẫn chị Anna đi quanh trường đại học.",
+      "main_audio" : "le3_v_scall.mp3",
+      "grammar" : "__はどこですか。(__ở đâu ạ?)\n\nDOKO DESU KA là mẫu câu dùng để hỏi địa điểm.\nVí dụ: TOIRE WA DOKO DESU KA. (Nhà vệ sinh ở đâu?)",
+      "dialogue" : 
+      [
+        {
+  	      "kana_name" : "さくら",
+	      "romaji_name" : "Sakura",
+          "kana" : "ここは教室です。",
+          "romaji" : "KOKO WA KYÔSHITSU DESU.",
+          "vn" : "Chỗ này là lớp học.",
+          "audio" : "le3_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "わあ、広い。",
+          "romaji" : "WA, HIROI.",
+          "vn" : "Ồ, rộng quá!",   
+          "audio" : "le3_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "さくら",
+	      "romaji_name" : "Sakura",
+          "kana" : "あそこは図書館。",
+          "romaji" : "ASOKO WA TOSHOKAN.",
+          "vn" : "Chỗ kia là thư viện.",
+          "audio" : "le3_v_sc03.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "トイレはどこですか。",
+          "romaji" : "TOIRE WA DOKO DESU KA.",
+          "vn" : "Nhà vệ sinh ở đâu ạ?",   
+          "audio" : "le3_v_sc04.mp3"
+        },
+        {
+          "kana_name" : "さくら",
+	      "romaji_name" : "Sakura",
+          "kana" : "すぐそこです。",
+          "romaji" : "SUGU SOKO DESU.",
+          "vn" : "Ngay chỗ đó thôi.",
+          "audio" : "le3_v_sc05.mp3"
+        }
+      ]
+    }
+  ]
+}

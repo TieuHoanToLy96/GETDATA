@@ -1,0 +1,227 @@
+{
+	"le_hoi":
+	[
+		{
+			"kanji" : "祭り",
+			"kana" : "まつり",
+			"romaji" : "matsuri",
+			"vn" : "Lễ hội"
+		},
+		{
+			"kanji" : "行事",
+			"kana" : "ぎょうじ",
+			"romaji" : "gyouji",
+			"vn" : "Dịp"
+		},
+		{
+			"kanji" : "春祭り",
+			"kana" : "はるまつり",
+			"romaji" : "haru matsuri",
+			"vn" : "Lễ hội mùa xuân"
+		},
+		{
+			"kanji" : "夏祭り",
+			"kana" : "なつまつり",
+			"romaji" : "natsu matsuri",
+			"vn" : "Lễ hội mùa hè"
+		},
+		{
+			"kanji" : "秋祭り",
+			"kana" : "あきまつり",
+			"romaji" : "aki matsuri",
+			"vn" : "Lễ hội mùa thu / Mùa thu liên hoan"
+		},
+		{
+			"kanji" : "雪祭り",
+			"kana" : "ゆきまつり",
+			"romaji" : "yuki matsuri",
+			"vn" : "Lễ hội tuyết"
+		},
+		{
+			"kanji" : "文化祭",
+			"kana" : "ぶんかさい",
+			"romaji" : "bunkasai",
+			"vn" : "Văn hóa lễ hội / Liên hoan nghệ thuật"
+		},
+		{
+			"kanji" : "正月",
+			"kana" : "しょうがつ",
+			"romaji" : "shou gatsu",
+			"vn" : "Ngày đầu năm mới / năm mới"
+		},
+		{
+			"kanji" : "花見",
+			"kana" : "はなみ",
+			"romaji" : "hanami",
+			"vn" : "Thưởng hoa Cherry"
+		},
+		{
+			"kanji" : "花火",
+			"kana" : "はなび",
+			"romaji" : "hanabi",
+			"vn" : "Pháo hoa"
+		},
+		{
+			"kanji" : "",
+			"kana" : "バレンタインデー",
+			"romaji" : "barentain de-",
+			"vn" : "Ngày lễ tình nhân"
+		},
+		{
+			"kanji" : "雛祭り",
+			"kana" : "ひなまつり",
+			"romaji" : "hina matsuri",
+			"vn" : "Lễ hội búp bê (ngày 03 tháng 3)"
+		},
+		{
+			"kanji" : "花祭り",
+			"kana" : "はなまつり",
+			"romaji" : "hana matsuri",
+			"vn" : "Lễ hội Phật đản (ngày 08 tháng 4)"
+		},
+		{
+			"kanji" : "緑の日",
+			"kana" : "みどりのひ",
+			"romaji" : "midori no hi",
+			"vn" : "Cây xanh ngày (tháng 29)"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ゴールデンウイーク",
+			"romaji" : "go-ruden ui-ku",
+			"vn" : "Tuần lễ Vàng"
+		},
+		{
+			"kanji" : "子供の日",
+			"kana" : "こどものひ",
+			"romaji" : "kodomo no hi",
+			"vn" : "Ngày trẻ em (05 tháng 5)"
+		},
+		{
+			"kanji" : "母の日",
+			"kana" : "ははのひ",
+			"romaji" : "haha no hi",
+			"vn" : "Ngày của Mẹ"
+		},
+		{
+			"kanji" : "父の日",
+			"kana" : "ちちのひ",
+			"romaji" : "chichi no hi",
+			"vn" : "Ngày của Cha"
+		},
+		{
+			"kanji" : "七夕",
+			"kana" : "たなばた",
+			"romaji" : "tanabata",
+			"vn" : "Lễ hội sao (7 tháng 7)"
+		},
+		{
+			"kanji" : "星祭り",
+			"kana" : "ほしまつり",
+			"romaji" : "hoshi matsuri",
+			"vn" : "Lễ hội sao (07 tháng 7)"
+		},
+		{
+			"kanji" : "お盆",
+			"kana" : "おぼん",
+			"romaji" : "obon",
+			"vn" : "Lễ hội Obon (giữa tháng Tám)"
+		},
+		{
+			"kanji" : "灯篭流し",
+			"kana" : "とうろうながし",
+			"romaji" : "tourou nagashi",
+			"vn" : "Lễ thả Đèn lồng trên sông (tháng 15/16)"
+		},
+		{
+			"kanji" : "七五三",
+			"kana" : "しちごさん",
+			"romaji" : "shichi go san",
+			"vn" : "Lễ trẻ em"
+		},
+		{
+			"kanji" : "文化の日",
+			"kana" : "ぶんかのひ",
+			"romaji" : "bunka no hi",
+			"vn" : "Ngày Văn hóa (03 tháng 11)"
+		},
+		{
+			"kanji" : "",
+			"kana" : "クリスマス",
+			"romaji" : "kurisumasu",
+			"vn" : "Giáng Sinh"
+		},
+		{
+			"kanji" : "大晦日",
+			"kana" : "おおみそか",
+			"romaji" : "oomisoka",
+			"vn" : "Năm mới (31 tháng 12)"
+		},
+		{
+			"kanji" : "夏休み",
+			"kana" : "なつやすみ",
+			"romaji" : "natsu yasumi",
+			"vn" : "Kì nghỉ hè"
+		},
+		{
+			"kanji" : "冬休み",
+			"kana" : "ふゆやすみ",
+			"romaji" : "fuyu yasumi",
+			"vn" : "Kỳ nghỉ đông"
+		},
+		{
+			"kanji" : "誕生日",
+			"kana" : "たんじょうび",
+			"romaji" : "tanjoubi",
+			"vn" : "Ngày sinh nhật"
+		},
+		{
+			"kanji" : "入学式",
+			"kana" : "にゅうがくしき",
+			"romaji" : "nyuugaku shiki",
+			"vn" : "Lễ nhập trường"
+		},
+		{
+			"kanji" : "成人式",
+			"kana" : "せいじんしき",
+			"romaji" : "seijin shiki",
+			"vn" : "Lễ trưởng thành"
+		},
+		{
+			"kanji" : "成年式",
+			"kana" : "せいねんしき",
+			"romaji" : "seinen shiki",
+			"vn" : "Lễ trưởng thành"
+		},
+		{
+			"kanji" : "卒業式",
+			"kana" : "そつぎょうしき",
+			"romaji" : "sotsugyou shiki",
+			"vn" : "Lễ tốt nghiệp"
+		},
+		{
+			"kanji" : "結婚式",
+			"kana" : "けっこんしき",
+			"romaji" : "kekkon shiki",
+			"vn" : "Lễ Cưới"
+		},
+		{
+			"kanji" : "葬式",
+			"kana" : "そうしき",
+			"romaji" : "sou shiki",
+			"vn" : "đám ma"
+		},
+		{
+			"kanji" : "選挙",
+			"kana" : "せんきょ",
+			"romaji" : "senkyo",
+			"vn" : "bầu cử"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ハロウィーン",
+			"romaji" : "haroui-n",
+			"vn" : "Halloween"
+		}
+	]
+}

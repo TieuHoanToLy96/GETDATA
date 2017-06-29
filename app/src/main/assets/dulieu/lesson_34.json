@@ -1,0 +1,43 @@
+{
+  "lesson_34": [
+    {
+      "detail": "Sau khi chị Anna đến lễ hội ở trường đại học với anh Kenta, cả 2 cùng đến hiệu sushi băng chuyền.",
+      "main_audio": "le34_v_scall.mp3",
+      "grammar": "__TTE NAN DESU KA\n\nKhi nghe được từ nào mà bạn không biết, bạn có thể hỏi ý nghĩa của từ đó bằng cách nói từ đó và thêm TTE  NAN  DESU  KA.\nVí dụ: TORO TTE NAN DESU KA. (Toro là cái gì thế ạ?)\n\nTính từ thể TE + Tính từ\n\nNếu muốn dùng từ 2 tính từ trở lên thì đổi các tính từ đứng trước sang thể TE.\nSau đây là cách để đổi tính từ sang thể TE:\nCác bạn đã được học là có 2 loại tính từ: tính từ đuôi I và tính từ đuôi NA.\nTính từ đuôi I là các từ kết thúc bằng âm tiết I, ví dụ như YASUI, nghĩa là “rẻ”.\nĐể đổi tính từ đuôi I sang thể TE, đổi I ở cuối từ đó thành KUTE. Như vậy YASUI thành YASUKUTE. “Vui” là TANOSHII, thành TANOSHIKUTE.\nCó một ngoại lệ là từ II, “tốt”, thành YOKUTE.\nTính từ đuôi NA là những từ khi bổ nghĩa cho danh từ thì thêm NA vào sau.\nVí dụ như GENKI, “khỏe mạnh”. Để nói “một người khỏe mạnh” thì “người” là HITO, vậy sẽ nói là GENKI NA HITO.\nĐể đổi tính từ đuôi NA sang thể TE thì thêm DE vào sau tính từ đó. Như vậy, GENKI thành GENKIDE.\nAKARUI là “vui vẻ”. Vì thế, muốn nói “một người khỏe mạnh và vui vẻ” sẽ nói là GENKI DE AKARUI HITO. ",
+      "dialogue": [
+        {
+          "kana_name": "健太",
+          "romaji_name": "Kenta",
+          "kana": "あっ、トロが来た。",
+          "romaji": "A', TORO GA KITA.",
+          "vn": "A, toro đến rồi!",
+          "audio": "le34_v_sc01.mp3"
+        },
+        {
+          "kana_name": "アンナ",
+          "romaji_name": "Anna",
+          "kana": "トロって何ですか。",
+          "romaji": "TORO TTE NAN DESU KA.",
+          "vn": "Toro là cái gì thế ạ?",
+          "audio": "le34_v_sc02.mp3"
+        },
+        {
+          "kana_name": "健太",
+          "romaji_name": "Kenta",
+          "kana": "マグロのおなかの部分です。どうぞ。",
+          "romaji": "MAGURO NO ONAKA NO BUBUN DESU. DÔZO.",
+          "vn": "Nó là phần bụng của cá ngừ đại dương. Mời em!",
+          "audio": "le34_v_sc03.mp3"
+        },
+        {
+          "kana_name": "アンナ",
+          "romaji_name": "Anna",
+          "kana": "いただきます。やわらかくておいしいです。",
+          "romaji": "ITADAKIMASU. YAWARAKAKUTE OISHII DESU.",
+          "vn": "Em xin phép. Mềm và ngon quá ạ!",
+          "audio": "le34_v_sc04.mp3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+﻿{
+	"vocabulary":
+	[
+		{
+			"title" : "Số đếm",
+			"file" : "so_dem"
+		},
+		{
+			"title" : "Từ vựng về gia đình",
+			"file" : "gia_dinh"
+		},
+		{
+			"title" : "Từ vựng về tình yêu",
+			"file" : "tinh_yeu"
+		},
+		{
+			"title" : "Từ vựng về địa điểm",
+			"file" : "dia_diem"
+		},
+		{
+			"title" : "Từ vựng về lễ hội, ngày lễ",
+			"file" : "le_hoi"
+		},
+		{
+			"title" : "Từ vựng về phương tiện giao thông",
+			"file" : "giao_thong"
+		},
+		{
+			"title" : "Từ vựng về màu sắc",
+			"file" : "mau_sac"
+		},
+		{
+			"title" : "Từ vựng về rau củ",
+			"file" : "rau_cu"
+		},
+		{
+			"title" : "Từ vựng về trái cây",
+			"file" : "trai_cay"
+		},
+		{
+			"title" : "Từ vựng về đồ dùng gia đình",
+			"file" : "do_dung"
+		}
+	]
+}

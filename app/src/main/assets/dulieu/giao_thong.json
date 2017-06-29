@@ -1,0 +1,143 @@
+﻿{
+	"giao_thong":
+	[
+		{
+			"kanji" : "自動車/車",
+			"kana" : "",
+			"romaji" : "Jidousha/Kuruma",
+			"vn" : "Ô tô"
+		},
+		{
+			"kanji" : "",
+			"kana" : "トラック",
+			"romaji" : "Torakku",
+			"vn" : "Xe tải"
+		},
+		{
+			"kanji" : "",
+			"kana" : "スポーツカー",
+			"romaji" : "Supootsu kaa",
+			"vn" : "Xe thể thao"
+		},
+		{
+			"kanji" : "",
+			"kana" : "タクシー",
+			"romaji" : "Takushii",
+			"vn" : "Taxi"
+		},
+		{
+			"kanji" : "救急車",
+			"kana" : "",
+			"romaji" : "Kyuukyuusha",
+			"vn" : "Xe cứu thương"
+		},
+		{
+			"kanji" : "消防車",
+			"kana" : "",
+			"romaji" : "Shoubousha",
+			"vn" : "Xe cứu hỏa"
+		},
+		{
+			"kanji" : "",
+			"kana" : "パトカー",
+			"romaji" : "Patokaa",
+			"vn" : "Xe cảnh sát"
+		},
+		{
+			"kanji" : "白バイ",
+			"kana" : "",
+			"romaji" : "Shirobai",
+			"vn" : "Xe moto cảnh sát"
+		},
+		{
+			"kanji" : "",
+			"kana" : "オートバイ",
+			"romaji" : "Ootobai",
+			"vn" : "Xe gắn máy"
+		},
+		{
+			"kanji" : "自転車",
+			"kana" : "",
+			"romaji" : "Jitensha",
+			"vn" : "Xe đạp"
+		},
+		{
+			"kanji" : "三輪車",
+			"kana" : "",
+			"romaji" : "Sanrinsha",
+			"vn" : "Xe ba bánh"
+		},
+		{
+			"kanji" : "汽車",
+			"kana" : "",
+			"romaji" : "Kisha",
+			"vn" : "Tàu hơi nước"
+		},
+		{
+			"kanji" : "電車",
+			"kana" : "",
+			"romaji" : "Densha",
+			"vn" : "Tàu điện"
+		},
+		{
+			"kanji" : "地下鉄",
+			"kana" : "",
+			"romaji" : "Chikatetsu",
+			"vn" : "Tàu điện ngầm"
+		},
+		{
+			"kanji" : "新幹線",
+			"kana" : "",
+			"romaji" : "Shinkansen",
+			"vn" : "Tàu cao tốc"
+		},
+		{
+			"kanji" : "飛行機",
+			"kana" : "",
+			"romaji" : "Hikouki",
+			"vn" : "Máy bay"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ヘリコプター",
+			"romaji" : "Herikoputaa",
+			"vn" : "Máy bay lên thẳng"
+		},
+		{
+			"kanji" : "船",
+			"kana" : "",
+			"romaji" : "Fune",
+			"vn" : "Tàu thủy"
+		},
+		{
+			"kanji" : "帆船",
+			"kana" : "",
+			"romaji" : "Hansen",
+			"vn" : "Thuyền buồm"
+		},
+		{
+			"kanji" : "ヨット",
+			"kana" : "",
+			"romaji" : "Yotto",
+			"vn" : "Du thuyền"
+		},
+		{
+			"kanji" : "",
+			"kana" : "フェリー",
+			"romaji" : "Ferii",
+			"vn" : "Phà"
+		},
+		{
+			"kanji" : "馬車",
+			"kana" : "",
+			"romaji" : "Basha",
+			"vn" : "Xe ngựa"
+		},
+		{
+			"kanji" : "人力車",
+			"kana" : "",
+			"romaji" : "Jinrikisha",
+			"vn" : "Xe kéo"
+		}
+	]
+}

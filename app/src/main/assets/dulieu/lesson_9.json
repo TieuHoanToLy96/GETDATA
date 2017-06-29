@@ -1,0 +1,37 @@
+{
+  "lesson_9":
+  [
+    {
+	  "detail" : "Hôm nay, Giáo sư Suzuki sẽ có một thông báo trước cả lớp.",
+      "main_audio" : "le9_v_scall.mp3",
+      "grammar" : "何時(なんじ) NANJI\n\nNAN là “mấy”, JI là “giờ”, để chỉ một giờ cụ thể.\nVí dụ: NANJI DESU KA. (Bây giờ là mấy giờ?)\n\nGiờ:\n1:00-ICHIJI\n2:00-NIJI\n3:00-SANJI\n4:00-YOJI\n5:00-GOJI\n6:00-ROKUJI\n7:00-SHICHIJI\n8:00-HACHIJI\n9:00-KUJI\n10:00-JUJI\n11:00-JUICHIJI\n12:00-JUNIJI\nNếu là phút thứ 30 thì thêm HAN phía sau. Ví dụ: 1:30-ICHIJI HAN",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "先生",
+  	      "romaji_name" : "Thầy giáo",
+          "kana" : "明日、健康診断があります。",
+          "romaji" : "ASHITA, KENKÔSHINDAN GA ARIMASU.",
+          "vn" : "Ngày mai sẽ có khám sức khỏe.",   
+          "audio" : "le9_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "何時からですか。",
+          "romaji" : "NANJI KARA DESU KA.",
+          "vn" : "Từ mấy giờ ạ?", 
+          "audio" : "le9_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "先生",
+  	      "romaji_name" : "Thầy giáo",
+          "kana" : "午前９時から１１時までです。ここに８時半に集まって下さい。",
+          "romaji" : "GOZEN KUJI KARA JÛICHIJI MADE DESU. KOKO NI HACHIJI HAN NI ATSUMATTE KUDASAI.",
+          "vn" : "Từ 9 giờ đến 11 giờ sáng.Các em hãy tập trung ở đây lúc 8 rưỡi!",   
+          "audio" : "le9_v_sc03.mp3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "lesson_21":
+  [
+    {
+	  "detail" : "Khi ở quán Karaoke, chị Anna hát một bài hát của Nhật Bản. Chị Sakura khen chị Anna hát hay.",
+      "main_audio" : "le21_v_scall.mp3",
+      "grammar" : "IIE, SOREHODODEMO\nKhông, không hay đến mức đấy đâu ạ.\n\nIIE nghĩa là “không”, là câu trả lời phủ định. SOREHODODEMO nghĩa là “không được đến mức đấy”.\nIIE,  SOREHODODEMO, “Không, không hay đến mức đấy đâu ạ”, là câu nói để tỏ ý khiêm tốn.",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "アンナ、上手だね。",
+          "romaji" : "ANNA, JÔZU DA NE.",
+          "vn" : "Anna ơi, hát hay thế!", 
+          "audio" : "le21_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "いいえ、それほどでも。",
+          "romaji" : "IIE, SOREHODODEMO.",
+          "vn" : "Không, không hay đến mức đấy đâu ạ.", 
+          "audio" : "le21_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "ロドリゴ",
+  	      "romaji_name" : "Rodrigo",
+          "kana" : "あっ、もうこんな時間です。",
+          "romaji" : "A', MÔ KONNA JIKAN DESU.",
+          "vn" : "Ôi, đã muộn như thế này rồi!", 
+          "audio" : "le21_v_sc03.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "大変。門限に間に合わない。",
+          "romaji" : "TAIHEN. MONGEN NI MANIAWANAI.",
+          "vn" : "Gay go rồi! Tôi không về kịp giờ đóng cửa kí túc xá mất.", 
+          "audio" : "le21_v_sc04.mp3"
+        }
+      ]
+    }
+  ]
+}

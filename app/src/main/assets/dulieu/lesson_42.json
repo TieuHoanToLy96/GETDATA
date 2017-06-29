@@ -1,0 +1,47 @@
+{
+  "lesson_42": [
+    {
+      "detail": "Hôm nay, chị Anna tham gia chuyến tham quan học tập của trường. Chị chuẩn bị mua cơm hộp từ dịch vụ ăn uống trên tàu cao tốc Shinkansen.",
+      "main_audio": "le42_v_scall.mp3",
+      "grammar": "DORE GA ICHIBAN __ DESU KA (Cái nào thì…..nhất?)\n\nĐể đặt câu hỏi với từ ICHIBAN, “nhất, số một”, bạn dùng các đại từ nghi vấn khác nhau trước ICHIBAN, tùy vào việc muốn so sánh cái gì.
+      			\nKhi so sánh từ 3 thứ trở lên, dùng ICHIBAN, để nói về đối tượng đứng thứ nhất trong số đó. Tôi sẽ ví dụ với câu “Cái này là thú vị nhất”. “Thú vị” là OMOSHIROI. Vì thế, câu này nói là ICHIBAN OMOSHIROI DESU. Tính từ OMOSHIROI không thay đổi. 
+				\nĐể nói về phạm vi so sánh, dùng trợ từ DE. Ví dụ: “Số 1 ở Nhật Bản” là NIHON DE ICHIBAN. Thế còn câu “Núi Phú Sĩ là ngọn núi cao nhất ở Nhật Bản” thì nói thế nào? “Cao” là TAKAI. Cả câu này là FUJISAN WA NIHON DE ICHIBAN TAKAI DESU. Sau đây, tôi sẽ nói về cách đặt câu hỏi với từ ICHIBAN, “nhất, số một”. Bạn dùng các đại từ nghi vấn khác nhau trước ICHIBAN, tùy vào việc muốn so sánh cái gì.
+				\nVí dụ, nếu so sánh những thứ mà cả người nói và người nghe đang nhìn vào, thì dùng DORE GA, “cái nào”. Ví dụ với câu “Bạn thích cái nào nhất?”. “Thích” là SUKI. Câu này sẽ nói là DOREGA ICHIBAN SUKI DESU KA. Nếu so sánh những thứ không ở xung quanh bạn, thì dùng NANI GA, “cái gì”. Ví dụ, “Bạn thích cái gì nhất?” là NANI GA ICHIBAN SUKI DESU KA. 
+				\nNếu so sánh giữa nhiều người, thì dùng DARE GA, “ai”. Nếu so sánh các địa điểm, thì dùng DOKO GA, “nơi nào”. Còn khi so sánh về thời gian thì nói ITSU GA, “khi nào”.",
+      "dialogue": [
+		{
+          "kana_name": "アンナ",
+          "romaji_name": "Anna",
+          "kana": "どれがいちばんおいしいかな。",
+          "romaji": "DORE GA ICHIBAN OISHII KANA.",
+          "vn": "Cái nào thì ngon nhất nhỉ?",
+          "audio": "le42_v_sc01.mp3"
+        },
+        {
+          "kana_name": "販売員",
+          "romaji_name": "Người bán hàng",
+          "kana": "幕の内弁当は人気がありますよ。",
+          "romaji": "MAKUNOUCHI-BENTÔ WA NINKI GA ARIMASU YO.",
+          "vn": "Cơm hộp Makunouchi rất được ưa chuộng đấy ạ.",
+          "audio": "le42_v_sc02.mp3"
+        },
+        {
+          "kana_name": "アンナ",
+          "romaji_name": "Anna",
+          "kana": "じゃ、私は幕の内。",
+          "romaji": "JA, WATASHI WA MAKUNOUCHI.",
+          "vn": "Thế thì tôi lấy Makunouchi.",
+          "audio": "le42_v_sc03.mp3"
+        },
+        {
+          "kana_name": "ロドリゴ",
+          "romaji_name": "Rodrigo",
+          "kana": "僕も。支払いは別々にお願いします。",
+          "romaji": "BOKU MO. SHIHARAI WA BETSUBETSUNI ONEGAI SHIMASU.",
+          "vn": "Tôi cũng vậy. Cho chúng tôi trả tiền riêng.",
+          "audio": "le42_v_sc04.mp3"
+        }
+      ]
+    }
+  ]
+}

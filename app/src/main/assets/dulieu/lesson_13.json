@@ -1,0 +1,37 @@
+{
+  "lesson_13":
+  [
+    {
+	  "detail" : "Chị Sakura và anh Rodrigo tiếp tục trò chuyện tại bữa tiệc tổ chức ở kí túc xá của sinh viên nước ngoài.",
+      "main_audio" : "le13_v_scall.mp3",
+      "grammar" : "A WA B GA SUKI DESU (A thích B)\n\nSUKI là tính từ, có nghĩa là “thích”. GA là trợ từ đứng sau từ chỉ đối tượng của một tính từ.\nVí dụ:  ANNA WA MANGA GA SUKI DESU. (Anna thích truyện tranh.)\n\n__MASEN KA\n\nNếu đổi MASU trong các động từ thể MASU thành MASEN KA, nghĩa là bạn đang rủ hoặc mời mọi người làm một việc gì đó.\nVí dụ:\nMINNA DE HON-YA NI IKIMASU. (Tất cả mọi người cùng đi đến hiệu sách.)\n>> MINNA DE HON-YA NI IKIMASEN KA. (Tất cả mọi người cùng đi đến hiệu sách không?)",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "ロドリゴさんの趣味は何ですか。",
+          "romaji" : "RODORIGO-SAN NO SHUMI WA NAN DESU KA.",
+          "vn" : "Sở thích của anh Rodrigo là gì?", 
+          "audio" : "le13_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "ロドリゴ",
+  	      "romaji_name" : "Rodrigo",
+          "kana" : "読書です。特に歴史小説が好きです。",
+          "romaji" : "DOKUSHO DESU. TOKUNI REKISHI SHÔSETSU GA SUKI DESU.",
+          "vn" : "Sở thích của tôi là đọc sách. Đặc biệt là tôi thích tiểu thuyết lịch sử.", 
+          "audio" : "le13_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "へえ。新宿に新しい本屋が出来ましたよ。 みんなで行きませんか。",
+          "romaji" : "HÊ. SHINJUKU NI ATARASHII HON-YA GA DEKIMASHITA YO. MINNA DE IKIMASEN KA.",
+          "vn" : "Thế à? Ở Shinjuku có một hiệu sách mới mở đấy. Tất cả mọi người cùng đi không?", 
+          "audio" : "le13_v_sc03.mp3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+﻿{
+	"gia_dinh":
+	[
+		{
+			"kanji" : "家族",
+			"kana" : "かぞく",
+			"romaji" : "kazoku",
+			"vn" : "Gia đình"
+		},
+		{
+			"kanji" : "祖父",
+			"kana" : "そふ",
+			"romaji" : "sofu",
+			"vn" : "Ông"
+		},
+		{
+			"kanji" : "祖母",
+			"kana" : "そぼ",
+			"romaji" : "sobo",
+			"vn" : "Bà"
+		},
+		{
+			"kanji" : "伯父",
+			"kana" : "おじ",
+			"romaji" : "oji",
+			"vn" : "Bác trai"
+		},
+		{
+			"kanji" : "叔父",
+			"kana" : "おじ",
+			"romaji" : "oji",
+			"vn" : "Chú"
+		},
+		{
+			"kanji" : "伯母",
+			"kana" : "おば",
+			"romaji" : "oba",
+			"vn" : "Bác gái"
+		},
+		{
+			"kanji" : "叔母",
+			"kana" : "おば",
+			"romaji" : "oba",
+			"vn" : "Cô, dì"
+		},
+		{
+			"kanji" : "両親",
+			"kana" : "りょうしん",
+			"romaji" : "ryoushin",
+			"vn" : "Bố mẹ"
+		},
+		{
+			"kanji" : "父",
+			"kana" : "ちち",
+			"romaji" : "chichi",
+			"vn" : "Bố"
+		},
+		{
+			"kanji" : "母",
+			"kana" : "はは",
+			"romaji" : "haha",
+			"vn" : "Mẹ"
+		},
+		{
+			"kanji" : "兄弟",
+			"kana" : "きょうだい",
+			"romaji" : "kyoudai",
+			"vn" : "Anh / em"
+		},
+		{
+			"kanji" : "姉妹",
+			"kana" : "しまい",
+			"romaji" : "shimai",
+			"vn" : "Chị / em"
+		},
+		{
+			"kanji" : "兄",
+			"kana" : "あに",
+			"romaji" : "ani",
+			"vn" : "Anh trai"
+		},
+		{
+			"kanji" : "姉",
+			"kana" : "あね",
+			"romaji" : "ane",
+			"vn" : "Chị gái"
+		},
+		{
+			"kanji" : "弟",
+			"kana" : "おとうと",
+			"romaji" : "otouto",
+			"vn" : "Em trai"
+		},
+		{
+			"kanji" : "妹",
+			"kana" : "いもうと",
+			"romaji" : "imouto",
+			"vn" : "Em gái"
+		},
+		{
+			"kanji" : "夫婦",
+			"kana" : "ふうふ",
+			"romaji" : "fuufu",
+			"vn" : "Vợ chồng"
+		},
+		{
+			"kanji" : "主人",
+			"kana" : "しゅじん",
+			"romaji" : "shujin",
+			"vn" : "Chồng"
+		},
+		{
+			"kanji" : "夫",
+			"kana" : "おっと",
+			"romaji" : "otto",
+			"vn" : "Chồng"
+		},
+		{
+			"kanji" : "家内",
+			"kana" : "かない",
+			"romaji" : "kanai",
+			"vn" : "Vợ"
+		},
+		{
+			"kanji" : "妻",
+			"kana" : "つま",
+			"romaji" : "tsuma",
+			"vn" : "Vợ"
+		},
+		{
+			"kanji" : "従兄弟",
+			"kana" : "いとこ",
+			"romaji" : "itoko",
+			"vn" : "Anh, em họ"
+		},
+		{
+			"kanji" : "従姉妹",
+			"kana" : "いとこ",
+			"romaji" : "itoko",
+			"vn" : "Chị, em họ"
+		},
+		{
+			"kanji" : "子供",
+			"kana" : "こども",
+			"romaji" : "kodomo",
+			"vn" : "Con cái"
+		},
+		{
+			"kanji" : "息子",
+			"kana" : "むすこ",
+			"romaji" : "musuko",
+			"vn" : "Con trai"
+		},
+		{
+			"kanji" : "娘",
+			"kana" : "むすめ",
+			"romaji" : "musume",
+			"vn" : "Con gái"
+		},
+		{
+			"kanji" : "甥",
+			"kana" : "おい",
+			"romaji" : "oi",
+			"vn" : "Cháu trai"
+		},
+		{
+			"kanji" : "姪",
+			"kana" : "めい",
+			"romaji" : "mei",
+			"vn" : "Cháu gái"
+		},
+		{
+			"kanji" : "孫",
+			"kana" : "まご",
+			"romaji" : "mago",
+			"vn" : "Cháu"
+		},
+		{
+			"kanji" : "義理の兄",
+			"kana" : "ぎりのあに",
+			"romaji" : "giri no ani",
+			"vn" : "Anh rể"
+		},
+		{
+			"kanji" : "義理の弟",
+			"kana" : "ぎりのおとうと",
+			"romaji" : "giri no otouto",
+			"vn" : "Em rể"
+		},
+		{
+			"kanji" : "義理の息子",
+			"kana" : "ぎりのむすこ",
+			"romaji" : "giri no musuko",
+			"vn" : "Con rể"
+		},
+
+		{
+			"kanji" : "ご家族",
+			"kana" : "ごかぞく",
+			"romaji" : "go kazoku",
+			"vn" : "Gia đình"
+		},
+		{
+			"kanji" : "お爺さん",
+			"kana" : "おじいさん",
+			"romaji" : "ojii san",
+			"vn" : "Ông"
+		},
+		{
+			"kanji" : "お婆さん",
+			"kana" : "おばあさん",
+			"romaji" : "obaa san",
+			"vn" : "Bà;"
+		},
+		{
+			"kanji" : "伯父さん",
+			"kana" : "おじさん",
+			"romaji" : "oji san",
+			"vn" : "Bác trai"
+		},
+		{
+			"kanji" : "叔父さん",
+			"kana" : "おじさん",
+			"romaji" : "oji san",
+			"vn" : "Chú"
+		},
+		{
+			"kanji" : "伯母さん",
+			"kana" : "おばさん",
+			"romaji" : "oba san",
+			"vn" : "Bác gái"
+		},
+		{
+			"kanji" : "叔母さん",
+			"kana" : "おばさん",
+			"romaji" : "oba san",
+			"vn" : "Cô, dì"
+		},
+		{
+			"kanji" : "ご両親",
+			"kana" : "ごりょうしん",
+			"romaji" : "go ryoushin",
+			"vn" : "Bố, mẹ"
+		},
+		{
+			"kanji" : "お父さん",
+			"kana" : "おとうさん",
+			"romaji" : "otou san",
+			"vn" : "Bố;"
+		},
+		{
+			"kanji" : "お母さん",
+			"kana" : "おかあさん",
+			"romaji" : "okaa san",
+			"vn" : "Mẹ"
+		},
+		{
+			"kanji" : "ご兄弟",
+			"kana" : "ごきょうだい",
+			"romaji" : "go kyoudai",
+			"vn" : "Anh / em"
+		},
+		{
+			"kanji" : "お兄さん",
+			"kana" : "おにいさん",
+			"romaji" : "onii san",
+			"vn" : "Anh trai"
+		},
+		{
+			"kanji" : "お姉さん",
+			"kana" : "おねえさん",
+			"romaji" : "onee san",
+			"vn" : "Chị gái"
+		},
+		{
+			"kanji" : "弟さん",
+			"kana" : "おとうとさん",
+			"romaji" : "otouto san",
+			"vn" : "Em trai"
+		},
+		{
+			"kanji" : "妹さん",
+			"kana" : "いもうとさん",
+			"romaji" : "imouto san",
+			"vn" : "Em gái"
+		},
+		{
+			"kanji" : "ご夫婦",
+			"kana" : "ごふうふ",
+			"romaji" : "go fuufu",
+			"vn" : "Vợ, chồng"
+		},
+		{
+			"kanji" : "ご主人",
+			"kana" : "ごしゅじん",
+			"romaji" : "go shujin",
+			"vn" : "Chồng"
+		},
+		{
+			"kanji" : "奥さん",
+			"kana" : "おくさん",
+			"romaji" : "okusan",
+			"vn" : "Vợ"
+		},
+		{
+			"kanji" : "お子さん",
+			"kana" : "おこさん",
+			"romaji" : "oko san",
+			"vn" : "Đứa trẻ"
+		},
+		{
+			"kanji" : "息子さん",
+			"kana" : "むすこさん",
+			"romaji" : "musuko san",
+			"vn" : "Con trai"
+		},
+		{
+			"kanji" : "お嬢さん",
+			"kana" : "おじょうさん",
+			"romaji" : "ojou san",
+			"vn" : "Con gái"
+		},
+		{
+			"kanji" : "お孫さん",
+			"kana" : "おまごさん",
+			"romaji" : "omago san",
+			"vn" : "Cháu"
+		}
+	]
+}

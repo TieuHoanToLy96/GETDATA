@@ -1,0 +1,53 @@
+﻿{
+  "lesson_2":
+  [
+    {
+	  "detail" : "Chị Anna, một du học sinh người Thái Lan, đã gặp chị Sakura, người hướng dẫn và cũng là sinh viên học cùng trường. Hai chị tự giới thiệu bản thân với nhau. Chị Anna đưa một vật cho chị Sakura.",
+      "main_audio" : "le2_v_scall.mp3",
+      "grammar" : "A の B (A của B)\n\nNO là trợ từ nối hai danh từ. Trong tiếng Nhật, từ bổ nghĩa cho danh từ được đặt trước danh từ.\nVí dụ: TOKYO NO OMIYAGE (Món quà lưu niệm của Tokyo)",
+      "dialogue" : 
+      [
+        {
+  	      "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "さくらさん。はい、どうぞ。",
+          "romaji" : "SAKURA-SAN. HAI, DÔZO.",
+          "vn" : "Chị Sakura này, xin tặng chị.",
+          "audio" : "le2_v_sc01.mp3"
+        },
+        {
+  	      "kana_name" : "さくら",
+	      "romaji_name" : "Sakura",
+          "kana" : "これは何ですか。",
+          "romaji" : "KORE WA NAN DESU KA.",
+          "vn" : "Đây là cái gì thế?",
+          "audio" : "le2_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "それはタイのお土産です。",
+          "romaji" : "SORE WA TAI NO OMIYAGE DESU.",
+          "vn" : "Đấy là món quà lưu niệm của Thái Lan.",   
+          "audio" : "le2_v_sc03.mp3"
+        },
+        {
+          "kana_name" : "さくら",
+	      "romaji_name" : "Sakura",
+          "kana" : "ありがとうございます。",
+          "romaji" : "ARIGATÔ GOZAIMASU.",
+          "vn" : "Xin cảm ơn chị.",
+          "audio" : "le2_v_sc04.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "どういたしまして。",
+          "romaji" : "DÔITASHIMASHITE.",
+          "vn" : "Không có gì ạ.",   
+          "audio" : "le2_v_sc05.mp3"
+        }
+      ]
+    }
+  ]
+}

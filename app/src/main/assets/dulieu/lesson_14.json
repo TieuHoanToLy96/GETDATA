@@ -1,0 +1,37 @@
+{
+  "lesson_14":
+  [
+    {
+	  "detail" : "Anna dọn dẹp mọi thứ sau bữa tiệc tại kí túc xá.",
+      "main_audio" : "le14_v_scall.mp3",
+      "grammar" : "KARA\n\nTrong trường hợp này, KARA chỉ lý do.\nVí dụ: SHIGEN DESU KARA, BETSU NO FUKURO NI IRETE KUDASAI. (Vì chúng là nguyên liệu có thể tái chế, hãy bỏ chúng vào một túi khác.)",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "お母さん、ここにゴミを捨ててもいいですか。",
+          "romaji" : "OKÂSAN, KOKO NI GOMI O SUTETE MO II DESU KA.",
+          "vn" : "Mẹ ơi, con vứt rác ở đây có được không ạ?", 
+          "audio" : "le14_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "寮母",
+  	      "romaji_name" : "Người quản lí kí túc xá",
+          "kana" : "そうねえ。缶は別の袋に入れてください。資源ですから。",
+          "romaji" : "SÔNÊ. KAN WA BETSU NO FUKURO NI IRETE KUDASAI. SHIGEN DESU KARA.",
+          "vn" : "Để xem nào. Hãy bỏ vỏ hộp kim loại vào một túi khác. Vì chúng là nguyên liệu có thể tái chế.", 
+          "audio" : "le14_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "はい、分かりました。",
+          "romaji" : "HAI, WAKARIMASHITA.",
+          "vn" : "Vâng, con hiểu rồi.", 
+          "audio" : "le14_v_sc03.mp3"
+        }
+      ]
+    }
+  ]
+}

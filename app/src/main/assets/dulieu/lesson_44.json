@@ -1,0 +1,35 @@
+{
+  "lesson_44": [
+    {
+      "detail": "Sau khi đến thăm thành Himeji, chị Anna tham dự một buổi lễ trà đạo tại một trà thất ở gần đó.",
+      "main_audio": "le44_v_scall.mp3",
+      "grammar": "__KAMOSHIREMASEN\n\nKAMO SHIREMASEN nghĩa là “có thể”. Ví dụ: NIGAI KAMOSHIREMASEN. (Nó có thể đắng.)",
+      "dialogue": [
+       	{
+          "kana_name": "アンナ",
+          "romaji_name": "Anna",
+          "kana": "和菓子はとても甘いですね。",
+          "romaji": "WAGASHI WA TOTEMO AMAI DESU NE.",
+          "vn": "Bánh Nhật Bản rất ngọt, thầy nhỉ?",
+          "audio": "le44_v_sc01.mp3"
+        },
+        {
+          "kana_name": "先生",
+          "romaji_name": "Thầy giáo",
+          "kana": "和菓子を食べてから、抹茶を飲みます。 抹茶は苦いかもしれません。",
+          "romaji": "WAGASHI O TABETE KARA, MACCHA O NOMIMASU. MACCHA WA NIGAI KAMOSHIREMASEN.",
+          "vn": "Sau khi ăn bánh Nhật Bản, thì uống trà pha từ bột trà xanh. Trà này có thể đắng.",
+          "audio": "le44_v_sc02.mp3"
+        },
+        {
+          "kana_name": "アンナ",
+          "romaji_name": "Anna",
+          "kana": "先生、足がしびれました。いたたたた。",
+          "romaji": "SENSEI, ASHI GA SHIBIREMASHITA. ITATATATA.",
+          "vn": "Thầy ơi, chân em bị tê. Ôi, đau quá!",
+          "audio": "le44_v_sc03.mp3"
+        }
+      ]
+    }
+  ]
+}

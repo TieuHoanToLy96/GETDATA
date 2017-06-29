@@ -1,0 +1,45 @@
+{
+  "lesson_27":
+  [
+    {
+	  "detail" : "Chị Anna đến thăm nhà chị Sakura. Chị Sakura đưa cho chị xem một thiệp mời đám cưới.",
+      "main_audio" : "le27_v_scall.mp3",
+      "grammar" : "Động từ thể NAI + ?\n\nKhi dùng thể NAI của động từ và lên giọng khi nói nghĩa là bạn đang rủ ai đó làm việc gì một cách thân mật.\nVí dụ: ISSHO NI EIGA O MINAI? (Xem phim với tôi không?).\nCách nói lịch sự là: ISSHO NI EIGA O MIMASENKA? (Bạn có cùng xem phim với tôi không?)",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "誰が結婚するんですか。",
+          "romaji" : "DARE GA KEKKON SURU N DESU KA.",
+          "vn" : "Ai kết hôn đấy ạ?", 
+          "audio" : "le27_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "静岡の友だち。",
+          "romaji" : "SHIZUOKA NO TOMODACHI.",
+          "vn" : "Một người bạn ở Shizuoka.",
+          "audio" : "le27_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "へえ。いつですか。",
+          "romaji" : "HÊ. ITSU DESU KA.",
+          "vn" : "Ôi, thế à! Bao giờ thế ạ?", 
+          "audio" : "le27_v_sc03.mp3"
+        },
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "来月２０日よ。アンナも一緒に静岡に行かない？",
+          "romaji" : "RAIGETSU HATSUKA YO. ANNA MO ISSHO NI SHIZUOKA NI IKANAI?",
+          "vn" : "Ngày 20 tháng sau đấy. Anna có đi cùng chị đến Shizuoka không?",
+          "audio" : "le27_v_sc04.mp3"
+        }
+      ]
+    }
+  ]
+}

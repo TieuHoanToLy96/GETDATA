@@ -1,0 +1,35 @@
+{
+  "lesson_40": [
+    {
+      "detail": "Chị Anna bị cảm lạnh và đang nằm trong phòng. Người quản lí kí túc xá lo lắng vào hỏi thăm sức khỏe của chị.",
+      "main_audio": "le40_v_scall.mp3",
+      "grammar": "Từ tượng thanh/tượng hình + SHIMASU\n\nZUKIZUKI là từ tượng hình, có thể dùng để diễn tả khi bạn bị đau đầu và cảm giác như có cái gì đập trong đầu. Nếu kết hợp với SHIMASU, nghĩa là “làm”, từ này sẽ trở thành động từ.\nVí dụ: ZUKIZUKI SHIMASU (đau nhức)",
+      "dialogue": [
+      	{
+          "kana_name": "寮母",
+          "romaji_name": "Người quản lí kí túc xá",
+          "kana": "おかゆですよ。体調は、どう？",
+          "romaji": "OKAYU DESU YO. TAICHÔ WA, DÔ?",
+          "vn": "Cháo này con. Con thấy trong người thế nào?",
+          "audio": "le40_v_sc01.mp3"
+        },
+        {
+          "kana_name": "アンナ",
+          "romaji_name": "Anna",
+          "kana": "頭がずきずきします。",
+          "romaji": "ATAMA GA ZUKIZUKI SHIMASU.",
+          "vn": "Đầu con đau như búa bổ.",
+          "audio": "le40_v_sc02.mp3"
+        },
+        {
+          "kana_name": "寮母",
+          "romaji_name": "Người quản lí kí túc xá",
+          "kana": "そう。欲しいものがあったら、言ってね。",
+          "romaji": "SÔ. HOSHII MONO GA ATTARA, ITTE NE.",
+          "vn": "Thế à? Nếu muốn gì thì nói nhé!",
+          "audio": "le40_v_sc03.mp3"
+        }
+      ]
+    }
+  ]
+}

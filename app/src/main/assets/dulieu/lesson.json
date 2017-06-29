@@ -1,0 +1,225 @@
+﻿
+{
+	"lesson":
+	[
+		{
+		"title" : "Bài 1: Tôi là Anna.",
+		"image" : "le1_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 2: Đây là cái gì?",
+		"image" : "le2_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 3: Nhà vệ sinh ở đâu ạ?",
+		"image" : "le3_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 4: Con đã về.",
+		"image" : "le4_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 5: Những cái đó là báu vật của tôi.",
+		"image" : "le5_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 6: Số điện thoại của chị là bao nhiêu?",
+		"image" : "le6_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 7: Có bánh su kem không ạ?",
+		"image" : "le7_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 8: Xin thầy nói lại một lần nữa ạ!",
+		"image" : "le8_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 9: Từ mấy giờ ạ?",
+		"image" : "le9_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 10: Tất cả mọi người có mặt chưa?",
+		"image" : "le10_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 11: Chị nhất định đến nhé!",
+		"image" : "le11_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 12: Anh đến Nhật Bản khi nào?",
+		"image" : "le12_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 13: Tôi thích tiểu thuyết.",
+		"image" : "le13_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 14: Con vứt rác ở đây có được không ạ?",
+		"image" : "le14_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 15: Họ đang ngủ.",
+		"image" : "le15_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 16: Chị hãy đi lên cầu thang rồi rẽ phải.",
+		"image" : "le16_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 17: Chị khuyên tôi nên mua cuốn nào? ",
+		"image" : "le17_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 18: Tôi bị lạc đường mất rồi. ",
+		"image" : "le18_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 19: Tốt rồi.",
+		"image" : "le19_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 20: Chị đã bao giờ hát bài hát Nhật Bản chưa?",
+		"image" : "le20_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 21: Không, không hay đến mức đấy đâu ạ.",
+		"image" : "le21_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 22: Con đã về muộn.",
+		"image" : "le22_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 23: Em đã bị Mẹ mắng.",
+		"image" : "le23_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 24: Các em đừng sử dụng từ điển.",
+		"image" : "le24_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 25: Chui xuống gầm bàn!",
+		"image" : "le25_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 26: Lần sau bọn mình cùng cố gắng nhé.",
+		"image" : "le26_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 27: Ai kết hôn đấy ạ?",
+		"image" : "le27_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 28: Chào mừng em đến Shizuoka.",
+		"image" : "le28_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 29:Khi nhìn gần, trông lớn nhỉ!",
+		"image" : "le29_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 30: Em muốn chụp ảnh thêm một lúc nữa.",
+		"image" : "le30_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 31: Bà đã 82 tuổi rồi đấy.",
+		"image" : "le31_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 32: Em thích đệm futon hơn.",
+		"image" : "le32_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 33: Anh sẽ tặng cho Anna.",
+		"image" : "le33_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 34: Mềm và ngon quá ạ!",
+		"image" : "le34_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 35: Tôi có thể trả bằng thẻ tín dụng được không?",
+		"image" : "le35_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 36: Em còn phải học.",
+		"image" : "le36_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 37: Con đã ngắm núi Phú Sĩ...",
+		"image" : "le37_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 38: Vâng, tôi hiểu rồi ạ.",
+		"image" : "le38_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 39: Tôi nghĩ là chị bị cảm lạnh.",
+		"image" : "le39_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 40: Đầu con đau như búa bổ",
+		"image" : "le40_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 41: Em rất vui vì đã được đến lễ hội ở trường.",
+		"image" : "le41_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 42: Cái nào thì ngon nhất nhỉ?",
+		"image" : "le42_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 43: Theo các em, tại sao lại như vậy?",
+		"image" : "le43_mp_01.jpg"
+		},
+		
+		{
+		"title" : "Bài 44: Sau khi ăn bánh Nhật Bản, thì uống trà pha từ bột trà xanh.",
+		"image" : "le44_mp_01.jpg"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+  "lesson_26":
+  [
+    {
+	  "detail" : "Hôm nay, chị Anna nhận được kết quả bài kiểm tra tiếng Nhật. Sau giờ học, chị thấy bạn cùng lớp của mình là anh Rodrigo đứng ủ rũ ở một chỗ.",
+      "main_audio" : "le26_v_scall.mp3",
+      "grammar" : "__N DESU\n\nN DESU được dùng để giải thích một tình huống hoặc lý do. Trước N  DESU phải dùng động từ ở dạng thông thường, như thể từ điển và thể TA.\nVí dụ: SHIKEN GA DEKINAKATTA N DESU. (Tôi đã không làm tốt bài kiểm tra.)\n\nDESHITA\n\nDESHITA là thể quá khứ của DESU.\nVí dụ: TAIHEN DESU. (Tôi vất vả.)\n>> TAIHEN DESHITA. (Tôi đã vất vả.)",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "ロドリゴ、元気がないね。",
+          "romaji" : "RODORIGO, GENKI GA NAI NE.",
+          "vn" : "Rodrigo ơi, bạn không khỏe à?", 
+          "audio" : "le26_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "ロドリゴ",
+  	      "romaji_name" : "Rodrigo",
+          "kana" : "試験ができなかったんです。",
+          "romaji" : "SHIKEN GA DEKINAKATTA N DESU.",
+          "vn" : "Mình đã không làm tốt bài kiểm tra.",
+          "audio" : "le26_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "私も…。６０点でした。次はがんばろう。",
+          "romaji" : "WATASHI MO.... ROKUJITTEN DESHITA. TSUGI WA GANBARÔ.",
+          "vn" : "Mình cũng vậy... Mình được 60 điểm. Lần sau bọn mình cùng cố gắng nhé.", 
+          "audio" : "le26_v_sc03.mp3"
+        }
+      ]
+    }
+  ]
+}

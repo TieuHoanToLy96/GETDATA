@@ -1,0 +1,43 @@
+{
+  "lesson_32": [
+    {
+      "detail": "Chị Anna sẽ ngủ lại nhà bà của chị Sakura. Đây là lần đầu tiên chị Anna nằm ngủ trên đệm futon, một loại đệm của Nhật Bản.",
+      "main_audio": "le32_v_scall.mp3",
+      "grammar": "(A) TO (B) TO DOCHIRA GA (Tính từ) DESU KA\n\nKhi muốn hỏi để so sánh đặc tính của A và B, dùng A TO B TO DOCHIRA GA, sau đó đến một tính từ, rồi cuối cùng là DESU KA.\nVí dụ: FUTON TO BEDDO TO DOCHIRA GA SUKI DESU KA. (Giữa đệm futon và giường, bạn thích cái nào hơn?)",
+      "dialogue": [
+        {
+          "kana_name": "さくら",
+          "romaji_name": "Sakura",
+          "kana": "布団とベッドとどちらが好き？",
+          "romaji": "FUTON TO BEDDO TO DOCHIRA GA SUKI?",
+          "vn": "Giữa đệm futon và giường, em thích cái nào hơn?",
+          "audio": "le32_v_sc01.mp3"
+        },
+        {
+          "kana_name": "アンナ",
+          "romaji_name": "Anna",
+          "kana": "布団のほうが好きです。この布団はベッドよりやわらかいです。",
+          "romaji": "FUTON NO HÔ GA SUKI DESU. KONO FUTON WA BEDDO YORI YAWARAKAI DESU.",
+          "vn": "Em thích đệm futon hơn. Đệm futon này mềm hơn giường.",
+          "audio": "le32_v_sc02.mp3"
+        },
+        {
+          "kana_name": "アンナ",
+          "romaji_name": "Anna",
+          "kana": "それじゃ、おやすみなさい。",
+          "romaji": "SOREJA, OYASUMINASAI.",
+          "vn": "Thế chị nhé! Chúc chị ngủ ngon.",
+          "audio": "le32_v_sc03.mp3"
+        },
+        {
+          "kana_name": "さくら",
+          "romaji_name": "Sakura",
+          "kana": "おやすみ。",
+          "romaji": "OYASUMI.",
+          "vn": "Chúc ngủ ngon.",
+          "audio": "le32_v_sc04.mp3"
+        }
+      ]
+    }
+  ]
+}

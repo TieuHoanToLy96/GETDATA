@@ -1,0 +1,37 @@
+{
+  "lesson_16":
+  [
+    {
+	  "detail" : "Chị Anna đến một hiệu sách ở Shinjuku với những người bạn. Chị hỏi người bán hàng xem quầy bán truyện tranh ở đâu.",
+      "main_audio" : "le16_v_scall.mp3",
+      "grammar" : "Động từ thể TE có thể nối các câu\n\nCó thể dùng thể TE của động từ để diễn đạt một chuỗi các hành động xảy ra nối tiếp nhau.\nVí dụ:\nKAIDAN O AGARIMASU. (Hãy lên cầu thang)\n+ MIGI NI ITTE KUDASAI. (Hãy rẽ phải)\n= KAIDAN O AGATTE, MIGI NI ITTE KUDASAI. (Hãy lên cầu thang rồi rẽ phải.)",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "店員",
+  	      "romaji_name" : "Nhân viên cửa hàng",
+          "kana" : "いらっしゃいませ。",
+          "romaji" : "IRASSHAIMASE.",
+          "vn" : "Xin kính chào quý khách.", 
+          "audio" : "le16_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "あのう、マンガ売り場はどこですか。",
+          "romaji" : "ANÔ, MANGA URIBA WA DOKO DESU KA.",
+          "vn" : "Anh ơi, khu bán truyện tranh ở đâu ạ?", 
+          "audio" : "le16_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "店員",
+  	      "romaji_name" : "Nhân viên cửa hàng",
+          "kana" : "２階です。階段を上がって、右に行ってください。",
+          "romaji" : "NIKAI DESU. KAIDAN O AGATTE, MIGI NI ITTE KUDASAI.",
+          "vn" : "Trên tầng 2 ạ. Chị hãy đi lên cầu thang, rồi rẽ phải.", 
+          "audio" : "le16_v_sc03.mp3"
+        }
+      ]
+    }
+  ]
+}

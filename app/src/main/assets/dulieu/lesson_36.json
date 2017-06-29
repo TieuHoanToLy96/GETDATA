@@ -1,0 +1,35 @@
+{
+  "lesson_36": [
+    {
+      "detail": "Sau những ngày đi chơi vui vẻ ở Shizuoka, chị Anna và chị Sakura chuẩn bị trở về Tokyo. Anh Kenta ra ga tiễn họ.",
+      "main_audio": "le36_v_scall.mp3",
+      "grammar": "Mùa trong năm\n\nHARU Mùa Xuân\nNATSU Mùa Hè\nAKI Mùa Thu\nFUYU Mùa Đông",
+      "dialogue": [
+        {
+          "kana_name": "健太",
+          "romaji_name": "Kenta",
+          "kana": "寂しくなります。",
+          "romaji": "SABISHIKU NARIMASU.",
+          "vn": "Anh sẽ buồn lắm.",
+          "audio": "le36_v_sc01.mp3"
+        },
+        {
+          "kana_name": "アンナ",
+          "romaji_name": "Anna",
+          "kana": "私もです。でも、大学で勉強しなければなりません。",
+          "romaji": "WATASHI MO DESU. DEMO, DAIGAKU DE BENKYÔ SHINAKEREBA NARIMASEN.",
+          "vn": "Em cũng thế. Nhưng em còn phải học ở trường.",
+          "audio": "le36_v_sc02.mp3"
+        },
+        {
+          "kana_name": "健太",
+          "romaji_name": "Kenta",
+          "kana": "じゃ、僕が春休みに東京に行きます。",
+          "romaji": "JA, BOKU GA HARUYASUMI NI TÔKYÔ NI IKIMASU.",
+          "vn": "Thế thì, anh sẽ lên Tokyo trong kì nghỉ Xuân.",
+          "audio": "le36_v_sc03.mp3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "lesson_41": [
+    {
+      "detail": "Chị Anna đã hết cảm lạnh và khỏe lại. Hôm nay, chị viết email để cảm ơn anh Kenta, người đã đưa chị đi chơi quanh Shizuoka.",
+      "main_audio": "le41_v_scall.mp3",
+      "grammar": "Động từ thể từ điển + KOTO GA DEKIMASU\n\nDùng động từ thể từ điển thêm KOTO GA DEKIMASU để diễn đạt năng lực hay khả năng làm việc gì.
+				\nXin lấy ví dụ có sử dụng KOTO GA DEKIMASU. Ví dụ: “Tôi có thể đi”. “Tôi” là WATASHI. “Đi” là IKIMASU. Thể từ điển của từ này là IKU. Sau đó, thêm KOTO GA DEKIMASU. Như vậy cả câu là WATASHI WA IKU KOTO GA DEKIMASU, “Tôi có thể đi”.
+				\nĐể biến câu này thành phủ định, đổi DEKIMASU thành DEKIMASEN. Như vậy, câu “Tôi không thể đi” nói là WATASHI WA IKU KOTO GA DEKIMASEN. 
+				\nCác bạn còn nhớ thể khả năng của động từ để thể hiện “có thể làm gì” không? Các bạn đã được học trong bài 35.
+				\nThể khả năng của IKIMASU là IKEMASU, về cơ bản thì nghĩa giống với IKU KOTO GA DEKIMASU. Tuy nhiên, dùng IKEMASU thì thân mật hơn.",
+      "dialogue": [
+		{
+          "kana_name": "アンナ",
+          "romaji_name": "Anna",
+          "kana": "健太様 お元気ですか。",
+          "romaji": "KENTA SAMA OGENKI DESU KA.",
+          "vn": "Anh Kenta thân mến! Anh có khỏe không ạ?",
+          "audio": "le41_v_sc01.mp3"
+        },
+        {
+          "kana_name": "アンナ",
+          "romaji_name": "Anna",
+          "kana": "この間はありがとうございました。",
+          "romaji": "KONOAIDA WA ARIGATÔ GOZAIMASHITA.",
+          "vn": "Hôm trước, xin cảm ơn anh.",
+          "audio": "le41_v_sc02.mp3"
+        },
+        {
+          "kana_name": "アンナ",
+          "romaji_name": "Anna",
+          "kana": "学園祭に行くことができて、楽しかったです。",
+          "romaji": "GAKUEN-SAI NI IKU KOTO GA DEKITE, TANOSHIKATTA DESU.",
+          "vn": "Em rất vui vì đã được đến lễ hội ở trường.",
+          "audio": "le41_v_sc03.mp3"
+        },
+        {
+          "kana_name": "アンナ",
+          "romaji_name": "Anna",
+          "kana": "次は東京で会いましょう。",
+          "romaji": "TSUGI WA TÔKYÔ DE AIMASHÔ.",
+          "vn": "Lần tới, hẹn gặp anh ở Tokyo.",
+          "audio": "le41_v_sc04.mp3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "lesson_24":
+  [
+    {
+	  "detail" : "Chị Anna đang trong lớp học tiếng Nhật của Giáo sư Suzuki. Giáo sư giải thích về bài kiểm tra vào tuần tới.",
+      "main_audio" : "le24_v_scall.mp3",
+      "grammar" : "Các từ chỉ thời điểm\n\nKINÔ (hôm qua)\nKYÔ (hôm nay)\nASHITA (ngày mai)\nSENSHÛ (tuần trước)\nKONSHÛ (tuần này)\nRAISHÛ (tuần sau)\nSENGETSU (tháng trước)\nKONGETSU (tháng này)\nRAIGETSU (tháng sau)",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "先生",
+  	      "romaji_name" : "Thầy giáo",
+          "kana" : "はい、今日はここまでです。来週の月曜日に試験をします。",
+          "romaji" : "HAI, KYÔ WA KOKO MADE DESU. RAISHÛ NO GETSUYÔBI NI SHIKEN O SHIMASU.",
+          "vn" : "Được rồi, hôm nay đến chỗ này thôi. Vào thứ Hai tuần sau, tôi sẽ cho bài kiểm tra.",
+          "audio" : "le24_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "先生、辞書を使ってもいいですか。",
+          "romaji" : "SENSEI, JISHO O TSUKATTE MO II DESU KA.",
+          "vn" : "Thưa thầy, chúng em sử dụng từ điển có được không ạ?", 
+          "audio" : "le24_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "先生",
+  	      "romaji_name" : "Thầy giáo",
+          "kana" : "いいえ、だめです。使わないでください。",
+          "romaji" : "IIE, DAME DESU. TSUKAWANAIDE KUDASAI.",
+          "vn" : "Không, không được! Các em đừng sử dụng từ điển.",
+          "audio" : "le24_v_sc03.mp3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "lesson_10":
+  [
+    {
+	  "detail" : "Hôm nay, chị Anna có buổi khám sức khỏe tại trường đại học. Các sinh viên đã tập trung tại nơi khám sức khỏe.",
+      "main_audio" : "le10_v_scall.mp3",
+      "grammar" : "MASHITA: Thể quá khứ của MASU\n\nĐể đổi các động từ thể MASU sang quá khứ, đổi MASU sang MASHITA.\nVí dụ: TABEMASU (ăn) >> TABEMASHITA (đã ăn)",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "先生",
+  	      "romaji_name" : "Thầy giáo",
+          "kana" : "はじめに身長と体重をはかります。全員いますか。",
+          "romaji" : "HAJIMENI SHINCHÔ TO TAIJÛ O HAKARIMASU. ZEN-IN IMASU KA.",
+          "vn" : "Đầu tiên sẽ đo chiều cao và cân nặng. Tất cả mọi người có mặt chưa?",   
+          "audio" : "le10_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "ロドリゴ",
+  	      "romaji_name" : "Rodrigo",
+          "kana" : "アンナさんがいません。",
+          "romaji" : "ANNA-SAN GA IMASEN.",
+          "vn" : "Bạn Anna không có ở đây ạ.",   
+          "audio" : "le10_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "すみません。遅れました。",
+          "romaji" : "SUMIMASEN. OKUREMASHITA.",
+          "vn" : "Xin lỗi, em đến muộn.", 
+          "audio" : "le10_v_sc03.mp3"
+        }
+      ]
+    }
+  ]
+}

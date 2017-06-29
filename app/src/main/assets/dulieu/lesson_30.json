@@ -1,0 +1,37 @@
+{
+  "lesson_30":
+  [
+    {
+	  "detail" : "Chị Anna đang chụp ảnh núi Phú Sĩ với chị Sakura và anh Kenta thì trời đổ mưa.",
+      "main_audio" : "le30_v_scall.mp3",
+      "grammar" : "__TAI DESU\n\nThay MASU trong động từ thể MASU bằng TAI để thể hiện là muốn làm cái gì. Nếu thêm DESU sau TAI, câu nói sẽ lịch sự.\nVí dụ: SHASHIN O TORIMASU (Tôi chụp ảnh)\n>> SHASHIN O TORITAI DESU (Tôi muốn chụp ảnh).",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "あ、雨だ。急いで帰りましょう。",
+          "romaji" : "A, AME DA. ISOIDE KAERIMASHÔ.",
+          "vn" : "Ối, trời mưa rồi! Mau về thôi!", 
+          "audio" : "le30_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "ちょっと待ってください。もう少し写真を撮りたいです。",
+          "romaji" : "CHOTTO MATTE KUDASAI. MÔ SUKOSHI SHASHIN O TORITAI DESU.",
+          "vn" : "Xin hãy đợi một chút! Em muốn chụp ảnh thêm một lúc nữa.", 
+          "audio" : "le30_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "健太",
+  	      "romaji_name" : "Kenta",
+          "kana" : "雨にぬれたら、風邪をひくよ。",
+          "romaji" : "AME NI NURETARA, KAZE O HIKU YO.",
+          "vn" : "Nếu bị mưa ướt, sẽ bị cảm lạnh đấy.", 
+          "audio" : "le30_v_sc03.mp3"
+        }
+      ]
+    }
+  ]
+}

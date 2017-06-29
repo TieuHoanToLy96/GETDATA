@@ -1,0 +1,45 @@
+{
+  "lesson_20":
+  [
+    {
+	  "detail" : "Chị Anna và bạn bè đến hát tại quán karaoke.",
+      "main_audio" : "le20_v_scall.mp3",
+      "grammar" : "ARIMASU: động từ chỉ sự sở hữu\n\nTrong bài 7, ARIMASU nghĩa là “có thứ gì đó”, chỉ sự tồn tại. Trong bài 9, từ này nghĩa là “có một sự kiện gì đó”. Còn ở đây thì ARIMASU có nghĩa là “có cái gì đó” như là “kinh nghiệm”.\nVí dụ: NIHON NO UTA O UTATTA KOTO GA ARIMASU KA. (Bạn đã bao giờ hát bài hát Nhật Bản chưa?)",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "ロドリゴ",
+  	      "romaji_name" : "Rodrigo",
+          "kana" : "アンナさんは日本の歌を歌ったことがありますか。",
+          "romaji" : "ANNA-SAN WA NIHON NO UTA O UTATTA KOTO GA ARIMASU KA.",
+          "vn" : "Chị Anna này, chị đã bao giờ hát bài hát Nhật Bản chưa?", 
+          "audio" : "le20_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "はい、あります。",
+          "romaji" : "HAI, ARIMASU.",
+          "vn" : "Có, rồi ạ.", 
+          "audio" : "le20_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "どんな曲が得意？",
+          "romaji" : "DONNA KYOKU GA TOKUI?",
+          "vn" : "Chị hát được những bài như thế nào?", 
+          "audio" : "le20_v_sc03.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "アニメの曲です。",
+          "romaji" : "ANIME NO KYOKU DESU.",
+          "vn" : "Bài hát của phim hoạt hình ạ.", 
+          "audio" : "le20_v_sc04.mp3"
+        }
+      ]
+    }
+  ]
+}

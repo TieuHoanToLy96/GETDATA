@@ -1,0 +1,45 @@
+{
+  "lesson_17":
+  [
+    {
+	  "detail" : "Tại hiệu sách, chị Anna tìm thấy rất nhiều cuốn truyện tranh trông có vẻ hay. Chị không quyết định được là nên mua cuốn nào.",
+      "main_audio" : "le17_v_scall.mp3",
+      "grammar" : "__WA CHOTTO\n\nĐây là cách nói để từ chối một lời đề nghị một cách nhẹ nhàng, gián tiếp.\nVí dụ: HORÂ WA CHOTTO.... (Truyện kinh dị thì hơi…)",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "あ、この本いいなあ。あれも面白そう",
+          "romaji" : "A, KONO HON II NÂ. ARE MO OMOSHIROSÔ.",
+          "vn" : "Ồ, cuốn truyện này trông hay quá! Cuốn kia cũng có vẻ thú vị.", 
+          "audio" : "le17_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "さくらさんのおすすめは何ですか。",
+          "romaji" : "SAKURA-SAN NO OSUSUME WA NAN DESU KA.",
+          "vn" : "Chị Sakura khuyên tôi nên mua cuốn nào?", 
+          "audio" : "le17_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "これはどう？",
+          "romaji" : "KORE WA DÔ?",
+          "vn" : "Cuốn này thì sao?", 
+          "audio" : "le17_v_sc03.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "ホラーはちょっと…。",
+          "romaji" : "HORÂ WA CHOTTO....",
+          "vn" : "Truyện kinh dị thì hơi…", 
+          "audio" : "le17_v_sc04.mp3"
+        }
+      ]
+    }
+  ]
+}

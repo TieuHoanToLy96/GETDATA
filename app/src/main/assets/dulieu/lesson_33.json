@@ -1,0 +1,43 @@
+{
+  "lesson_33": [
+    {
+      "detail": "Chị Anna đến lễ hội ở trường đại học cùng với em họ của chị Sakura là anh Kenta. Họ đang đi xem triển lãm của Câu lạc bộ Nhiếp ảnh.",
+      "main_audio": "le33_v_scall.mp3",
+      "grammar": "AGEMASU và KUREMASU\n\nTrong tiếng Nhật, chúng ta sử dụng các động từ khác nhau tùy thuộc vào việc đang đứng ở vị trí người cho hay người nhận.\nKhi người nói cho người nghe một vật gì đó, thì người nói sẽ dùng AGEMASU. Nếu ai đó đưa cho bạn cái gì thì bạn dùng KUREMASU.",
+      "dialogue": [
+        {
+          "kana_name": "健太",
+          "romaji_name": "Kenta",
+          "kana": "これは、僕が富士山で撮った写真です。",
+          "romaji": "KORE WA, BOKU GA FUJISAN DE TOTTA SHASHIN DESU.",
+          "vn": "Đây là bức ảnh anh chụp ở núi Phú Sĩ.",
+          "audio": "le33_v_sc01.mp3"
+        },
+        {
+          "kana_name": "アンナ",
+          "romaji_name": "Anna",
+          "kana": "あっ、私だ。",
+          "romaji": "A', WATASHI DA.",
+          "vn": "Ơ, đó là em!",
+          "audio": "le33_v_sc02.mp3"
+        },
+        {
+          "kana_name": "健太",
+          "romaji_name": "Kenta",
+          "kana": "驚いた？あとで、アンナさんにあげます。",
+          "romaji": "ODOROITA? ATODE, ANNA-SAN NI AGEMASU.",
+          "vn": "Em ngạc nhiên không? Sau này, anh sẽ tặng cho Anna.",
+          "audio": "le33_v_sc03.mp3"
+        },
+        {
+          "kana_name": "アンナ",
+          "romaji_name": "Anna",
+          "kana": "写真をくれるんですか。うれしいです。",
+          "romaji": "SHASHIN O KURERU N DESU KA? URESHII DESU.",
+          "vn": "Anh sẽ tặng bức ảnh cho em à? Vui quá ạ!",
+          "audio": "le33_v_sc04.mp3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "lesson_37": [
+    {
+      "detail": "Sau chuyến đi chơi, chị Anna từ Shizuoka về kí túc xá ở Tokyo. Chị nói chuyện với người quản lí kí túc xá về chuyến đi.",
+      "main_audio": "le37_v_scall.mp3",
+      "grammar": "__WA DÔ DATTA?\n\nDÔ là “thế nào”. DATTA là cách nói thân mật của DESHITA, dùng để kết thúc câu ở thể quá khứ.\nVí dụ: SHIKEN WA DÔ DATTA? (Bài thi thế nào?)",
+      "dialogue": [
+        {
+          "kana_name": "寮母",
+          "romaji_name": "Người quản lí kí túc xá",
+          "kana": "旅行はどうだった？",
+          "romaji": "RYOKÔ WA DÔ DATTA?",
+          "vn": "Chuyến đi thế nào?",
+          "audio": "le37_v_sc01.mp3"
+        },
+        {
+          "kana_name": "アンナ",
+          "romaji_name": "Anna",
+          "kana": "富士山を見たり、おすしを食べたりしました。楽しかったです。",
+          "romaji": "FUJISAN O MITARI, OSUSHI O TABETARI SHIMASHITA. TANOSHIKATTA DESU.",
+          "vn": "Con đã ngắm núi Phú Sĩ, ăn sushi, và tham gia những hoạt động khác nữa. Vui lắm ạ!",
+          "audio": "le37_v_sc02.mp3"
+        },
+        {
+          "kana_name": "寮母",
+          "romaji_name": "Người quản lí kí túc xá",
+          "kana": "それはよかったわね。",
+          "romaji": "SORE WA YOKATTA WA NE.",
+          "vn": "Thế thì tốt rồi.",
+          "audio": "le37_v_sc03.mp3"
+        }
+      ]
+    }
+  ]
+}

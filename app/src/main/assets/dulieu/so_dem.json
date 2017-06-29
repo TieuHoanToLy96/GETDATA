@@ -1,0 +1,305 @@
+{
+	"so_dem":
+	[
+		{
+			"kanji" : "",
+			"kana" : "れい, ゼロ",
+			"romaji" : "rei, zero",
+			"vn" : "0"
+		},
+		{
+			"kanji" : "",
+			"kana" : "いち",
+			"romaji" : "ichi",
+			"vn" : "1"
+		},
+		{
+			"kanji" : "",
+			"kana" : "に",
+			"romaji" : "ni",
+			"vn" : "2 "
+		},
+		{
+			"kanji" : "",
+			"kana" : "さん",
+			"romaji" : "san　",
+			"vn" : "3 "
+		},
+		{
+			"kanji" : "",
+			"kana" : "よん",
+			"romaji" : "yon",
+			"vn" : "4"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ご",
+			"romaji" : "go",
+			"vn" : "5"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ろく",
+			"romaji" : "roku",
+			"vn" : "6"
+		},
+		{
+			"kanji" : "",
+			"kana" : "なな",
+			"romaji" : "nana　",
+			"vn" : "7 "
+		},
+		{
+			"kanji" : "",
+			"kana" : "はち",
+			"romaji" : "hachi",
+			"vn" : "8 "
+		},
+		{
+			"kanji" : "",
+			"kana" : "きゅう",
+			"romaji" : "kyuu　",
+			"vn" : "9 "
+		},
+		{
+			"kanji" : "",
+			"kana" : "じゅう",
+			"romaji" : "juu",
+			"vn" : "10"
+		},
+		{
+			"kanji" : "",
+			"kana" : "じゅういち",
+			"romaji" : "juu + ichi",
+			"vn" : "11"
+		},
+		{
+			"kanji" : "",
+			"kana" : "じゅうに–",
+			"romaji" : "juu + ni",
+			"vn" : "12(tt 13>19)"
+		},
+		{
+			"kanji" : "",
+			"kana" : "にじゅう",
+			"romaji" : "ni + juu",
+			"vn" : "20"
+		},
+		{
+			"kanji" : "",
+			"kana" : "にじゅういち–",
+			"romaji" : "ni + juu + ichi",
+			"vn" : "21(tt 21>29)"
+		},
+		{
+			"kanji" : "",
+			"kana" : "さんじゅう",
+			"romaji" : "san + juu",
+			"vn" : "30"
+		},
+		{
+			"kanji" : "",
+			"kana" : "よんじゅう",
+			"romaji" : "yon + juu",
+			"vn" : "40( tt 41>90)"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ひゃく",
+			"romaji" : "",
+			"vn" : "100"
+		},
+		{
+			"kanji" : "",
+			"kana" : "せん",
+			"romaji" : "",
+			"vn" : "1000"
+		},
+		{
+			"kanji" : "",
+			"kana" : "いちまん",
+			"romaji" : "",
+			"vn" : "10 000"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ひゃくまん",
+			"romaji" : "",
+			"vn" : "1 000 000"
+		},
+		{
+			"kanji" : "",
+			"kana" : "せんまん",
+			"romaji" : "",
+			"vn" : "10 000 000"
+		},
+		{
+			"kanji" : "",
+			"kana" : "いちおく",
+			"romaji" : "",
+			"vn" : "100 000 000"
+		},
+		{
+			"vn" : "100",
+			"romaji" : "hyaku",
+			"kanji" : "",
+			"kana" : "百"
+		},
+		{
+			"vn" : "1000",
+			"romaji" : "sen",
+			"kanji" : "",
+			"kana" : "千"
+		},
+		{
+			"vn" : "200",
+			"romaji" : "ni hyaku",
+			"kanji" : "",
+			"kana" : "二百"
+		},
+		{
+			"vn" : "2000",
+			"romaji" : "ni sen",
+			"kanji" : "",
+			"kana" : "二千"
+		},
+		{
+			"vn" : "300",
+			"romaji" : "san yaku",
+			"kanji" : "",
+			"kana" : "三百"
+		},
+		{	
+			"vn" : "3000",
+			"romaji" : "san zen",
+			"kanji" : "",
+			"kana" : "三千"
+		},
+		{
+			"vn" : "400",
+			"romaji" : "yon hyaku",
+			"kanji" : "",
+			"kana" : "四百"
+		},
+		{
+			"vn" : "4000",
+			"romaji" : "yon sen",
+			"kanji" : "",
+			"kana" : "四千"
+		},
+		{
+			"vn" : "500",
+			"romaji" : "go hyaku",
+			"kanji" : "",
+			"kana" : "五百"
+		},
+		{
+			"vn" : "5000",
+			"romaji" : "go sen",
+			"kanji" : "",
+			"kana" : "五千"
+		},
+		{
+			"vn" : "600",
+			"romaji" : "rop pyaku",
+			"kanji" : "",
+			"kana" : "六百"
+		},
+		{
+			"vn" : "6000",
+			"romaji" : "roku sen",
+			"kanji" : "",
+			"kana" : "六千"
+		},
+		{
+			"vn" : "700",
+			"romaji" : "nana hyaku",
+			"kanji" : "",
+			"kana" : "七百"
+		},
+		{
+			"vn" : "7000",
+			"romaji" : "nana  sen",
+			"kanji" : "",
+			"kana" : "七千"
+		},
+		{
+			"vn" : "800",
+			"romaji" : "hap pyaku",
+			"kanji" : "",
+			"kana" : "八百"
+		},
+		{
+			"vn" : "8000",
+			"romaji" : "has sen",
+			"kanji" : "",
+			"kana" : "八千"
+		},
+		{
+			"vn" : "900",
+			"romaji" : "kjū hyaku",
+			"kanji" : "",
+			"kana" : "九百"
+		},
+		{
+			"vn" : "9000",
+			"romaji" : "kjū sen",
+			"kanji" : "",
+			"kana" : "九千"
+		},
+		{
+			"vn" : "10 000",
+			"romaji" : "ichi man",
+			"kanji" : "",
+			"kana" : "一万"
+		},
+		{
+			"vn" : "20 000",
+			"romaji" : "ni man",
+			"kanji" : "",
+			"kana" : "二万"
+		},
+		{
+			"vn" : "30 000",
+			"romaji" : "san man",
+			"kanji" : "",
+			"kana" : "三万"
+		},
+		{
+			"vn" : "40 000",
+			"romaji" : "yon man",
+			"kanji" : "",
+			"kana" : "四万"
+		},
+		{
+			"vn" : "50 000",
+			"romaji" : "go man",
+			"kanji" : "",
+			"kana" : "五万"
+		},
+		{
+			"vn" : "60 000",
+			"romaji" : "roku man",
+			"kanji" : "",
+			"kana" : "六万"
+		},
+		{
+			"vn" : "70 000",
+			"romaji" : "nana man",
+			"kanji" : "",
+			"kana" : "七万"
+		},
+		{
+			"vn" : "80 000",
+			"romaji" : "hachi man",
+			"kanji" : "",
+			"kana" : "八万"
+		},
+		{
+			"vn" : "90 000",
+			"romaji" : "kjū man",
+			"kanji" : "",
+			"kana" : "九万"
+		}
+	]
+}

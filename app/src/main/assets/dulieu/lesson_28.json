@@ -1,0 +1,53 @@
+{
+  "lesson_28":
+  [
+    {
+	  "detail" : "Chị Anna đến thành phố Shizuoka với chị Sakura. Anh Kenta, em họ chị Sakura, ra ga đón họ.",
+      "main_audio" : "le28_v_scall.mp3",
+      "grammar" : "__E YÔKOSO\n\nE là trợ từ chỉ điểm kết thúc của sự di chuyển. YÔKOSO là “chào mừng”.\nVí dụ: NIHON E YÔKOSO. (Chào mừng anh/chị đến Nhật Bản.)\n\nNI KUWASHII\n\nTrợ từ NI chỉ điều mà người đó hiểu biết.\nVí dụ: KENTA WA KAMERA NI KUWASHII. (Anh Kenta biết nhiều về máy ảnh.)",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "こちらは、いとこの健太くん。",
+          "romaji" : "KOCHIRA WA, ITOKO NO KENTA-KUN.",
+          "vn" : "Đây là em họ chị, Kenta.",
+          "audio" : "le28_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "健太",
+  	      "romaji_name" : "Kenta",
+          "kana" : "静岡へようこそ。",
+          "romaji" : "SHIZUOKA E YÔKOSO.",
+          "vn" : "Chào mừng em đến Shizuoka.", 
+          "audio" : "le28_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "彼はカメラに詳しいから、いろいろきいてね。",
+          "romaji" : "KARE WA KAMERA NI KUWASHII KARA, IROIRO KIITE NE.",
+          "vn" : "Cậu ấy biết nhiều về máy ảnh, nên có gì cứ hỏi cậu ấy nhé.",
+          "audio" : "le28_v_sc03.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "どうぞよろしくお願いします。",
+          "romaji" : "DÔZO YOROSHIKU ONEGAI SHIMASU.",
+          "vn" : "Mong được anh giúp đỡ.", 
+          "audio" : "le28_v_sc04.mp3"
+        },
+        {
+          "kana_name" : "健太",
+  	      "romaji_name" : "Kenta",
+          "kana" : "（アンナちゃん、かわいいなあ）",
+          "romaji" : "(ANNA-CHAN, KAWAII NÂ.)",
+          "vn" : "(Anna dễ thương quá!)", 
+          "audio" : "le28_v_sc05.mp3"
+        }
+      ]
+    }
+  ]
+}

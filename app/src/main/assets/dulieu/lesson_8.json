@@ -1,0 +1,37 @@
+{
+  "lesson_8":
+  [
+    {
+	  "detail" : "Chị Anna đang ở trong lớp tiếng Nhật của Giáo sư Suzuki ở trường.",
+      "main_audio" : "le8_v_scall.mp3",
+      "grammar" : "Động từ thể TE\n\nKhi động từ ở giữa câu, nghĩa là sau nó còn có các từ khác thì phải chia động từ. Động từ khi chia kết thúc bằng TE được gọi là động từ thể TE.\nVí dụ: Thể MASU >> thể TE:\nTABEMASU (ăn) >> TABETE\nOBOEMASU (nhớ) >> OBOETE\nMIMASU (nhìn) >> MITE\nKIMASU (đến) >> KITE\nSHIMASU (làm) >> SHITE\nBENKYÔ SHIMASU (học) >> BENKYÔ SHITE",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "先生",
+  	      "romaji_name" : "Thầy giáo",
+          "kana" : "みなさん、これを覚えてください。試験によく出ます。",
+          "romaji" : "MINASAN, KORE O OBOETE KUDASAI. SHIKEN NI YOKU DEMASU.",
+          "vn" : "Các em, hãy ghi nhớ cái này! Cái này thường có trong bài thi.",   
+          "audio" : "le8_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "学生",
+  	      "romaji_name" : "Sinh viên",
+          "kana" : "えっ。",
+          "romaji" : "E'.",
+          "vn" : "Ối!", 
+          "audio" : "le8_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "先生、もう一度お願いします。",
+          "romaji" : "SENSEI, MÔICHIDO ONEGAI SHIMASU.",
+          "vn" : "Thưa thầy, xin thầy nói lại một lần nữa ạ!",   
+          "audio" : "le8_v_sc03.mp3"
+        }
+      ]
+    }
+  ]
+}

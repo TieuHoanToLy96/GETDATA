@@ -1,0 +1,37 @@
+{
+  "lesson_22":
+  [
+    {
+	  "detail" : "Chị Anna và bạn bè đi hát Karaoke rất vui vẻ nên đã về muộn hơn giờ đóng cửa kí túc xá.",
+      "main_audio" : "le22_v_scall.mp3",
+      "grammar" : "FUN/PUN: từ để đếm phút\n\nIPPUN (1 phút)\nNIFUN (2 phút)\nSANPUN (3 phút)\nYONPUN (4 phút)\nGOFUN (5 phút)\nROPPUN (6 phút)\nNANAFUN (7 phút)\nHACHIFUN (8 phút)\nKYÛFUN (9 phút)\nJIPPUN, JUPPUN (10 phút)\n\nĐộng từ thể TE + WA IKEMASEN\n\nĐộng từ thể TE thêm WA IKEMASEN nghĩa là “không được làm việc gì”.\nVí dụ: YAKUSOKU O YABUTTE WA IKEMASEN. (Không được thất hứa.)",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "お母さん、ごめんなさい。遅くなりました。",
+          "romaji" : "OKÂSAN, GOMENNASAI. OSOKU NARIMASHITA.",
+          "vn" : "Mẹ ơi, con xin lỗi. Con đã về muộn.", 
+          "audio" : "le22_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "寮母",
+  	      "romaji_name" : "Người quản lí kí túc xá",
+          "kana" : "アンナさん、１０分も遅刻です。約束を破ってはいけません。",
+          "romaji" : "ANNA-SAN, JIPPUN MO CHIKOKU DESU. YAKUSOKU O YABUTTE WA IKEMASEN.",
+          "vn" : "Anna này, con về muộn những 10 phút. Thất hứa là không được!", 
+          "audio" : "le22_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "すみません。気をつけます。",
+          "romaji" : "SUMIMASEN. KI O TSUKEMASU.",
+          "vn" : "Con xin lỗi. Con sẽ chú ý hơn.", 
+          "audio" : "le22_v_sc03.mp3"
+        }
+      ]
+    }
+  ]
+}

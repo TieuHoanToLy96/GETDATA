@@ -1,0 +1,45 @@
+{
+  "lesson_19":
+  [
+    {
+	  "detail" : "Chị Anna lạc mất những người bạn của mình và gọi điện nhờ chị Sakura giúp đỡ. Liệu chị Anna có gặp được chị Sakura và anh Rodrigo không?",
+      "main_audio" : "le19_v_scall.mp3",
+      "grammar" : "Thể quá khứ của tính từ\n\nTrong tiếng Nhật, tính từ có thể quá khứ. Đối với tính từ đuôi I, đổi I ở cuối tính từ đó thành KATTA. Đối với tính từ đuôi NA, thêm DATTA.\nVí dụ:\nTính từ đuôi I:\nYASUI (rẻ) >>  YASUKATTA.\nTính từ đuôi NA:\nSUKI (thích) >>  SUKIDATTA.\n*Ngoại lệ:\nII (tốt) >>  YOKATTA",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "ロドリゴ",
+  	      "romaji_name" : "Rodrigo",
+          "kana" : "おーい、アンナさん。",
+          "romaji" : "ÔI, ANNA-SAN.",
+          "vn" : "Chị Anna ơi.", 
+          "audio" : "le19_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "みんな。",
+          "romaji" : "MINNA.",
+          "vn" : "Mọi người.", 
+          "audio" : "le19_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "ロドリゴ",
+  	      "romaji_name" : "Rodrigo",
+          "kana" : "よかった。心配したよ。",
+          "romaji" : "YOKATTA. SHINPAI SHITA YO.",
+          "vn" : "Tốt rồi. Chúng tôi đã lo lắng cho chị đấy.", 
+          "audio" : "le19_v_sc03.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "ごめんなさい。カメラが安かったので、つい見てしまいました。",
+          "romaji" : "GOMENNASAI. KAMERA GA YASUKATTA NODE, TSUI MITE SHIMAIMASHITA.",
+          "vn" : "Tôi xin lỗi. Vì máy ảnh rẻ, nên tôi cứ mải xem.", 
+          "audio" : "le19_v_sc04.mp3"
+        }
+      ]
+    }
+  ]
+}

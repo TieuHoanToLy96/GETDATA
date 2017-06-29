@@ -1,0 +1,45 @@
+{
+  "lesson_18":
+  [
+    {
+	  "detail" : "Chị Anna đến hiệu sách với chị Sakura và anh Rodrigo. Sau khi cả 3 rời hiệu sách, chị Anna lạc mất 2 người bạn của mình.",
+      "main_audio" : "le18_v_scall.mp3",
+      "grammar" : "Động từ thể TE + SHIMAIMASHITA\n\nSHIMAIMASHITA được dùng sau các động từ thể TE để thể hiện đã làm việc gì đó một cách đãng trí hoặc bất cẩn\nVí dụ:\nMACHIGAEMASU (nhầm) >> MACHIGAETE SHIMAIMASHITA (Tôi đã nhầm.)",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "もしもし、さくらさん。助けてください。道に迷ってしまいました。",
+          "romaji" : "MOSHIMOSHI, SAKURA-SAN. TASUKETE KUDASAI. MICHI NI MAYOTTE SHIMAIMASHITA.",
+          "vn" : "Alô, chị Sakura à? Xin hãy giúp tôi! Tôi bị lạc đường mất rồi.", 
+          "audio" : "le18_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "今、どこ？",
+          "romaji" : "IMA, DOKO?",
+          "vn" : "Bây giờ, chị đang ở đâu?", 
+          "audio" : "le18_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "目の前に郵便局があります。",
+          "romaji" : "ME NO MAE NI YÛBINKYOKU GA ARIMASU.",
+          "vn" : "Ngay trước mắt tôi là bưu điện.", 
+          "audio" : "le18_v_sc03.mp3"
+        },
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "分かった。そこにいて。",
+          "romaji" : "WAKATTA. SOKO NI ITE.",
+          "vn" : "Tôi hiểu rồi. Chị cứ ở chỗ đó nhé!", 
+          "audio" : "le18_v_sc04.mp3"
+        }
+      ]
+    }
+  ]
+}

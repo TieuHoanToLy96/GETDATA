@@ -1,0 +1,45 @@
+{
+  "lesson_15":
+  [
+    {
+	  "detail" : "Chị Anna cùng chị Sakura và anh Rodrigo đi đến hiệu sách ở Shinjuku. Tàu chở họ đang chuẩn bị tới ga Shinjuku.",
+      "main_audio" : "le15_v_scall.mp3",
+      "grammar" : "__MASHÔ\n\nNếu đổi MASU thành MASHÔ sẽ được câu đề nghị. Chỉ có thể nói như vậy trong tình huống biết chắc người khác sẽ không từ chối lời đề nghị của mình.\nVí dụ:\nKOKO DE ORIMASU. (Chúng ta xuống tàu ở đây)\n>> KOKO DE ORIMASHÔ. (Chúng ta xuống tàu ở đây thôi).\nNếu vừa muốn đề nghị, vừa có ý hỏi xem người khác có đồng ý hay không, thì có thể nói  __MASEN  KA, thay cho__MASHÔ. Xem bài 13.\n\nĐộng từ thể TE + IMASU\n\nNếu thêm IMASU vào sau đọng từ thể TE sẽ diễn đạt một hành động hoặc một trạng thái nào đó đang tiếp diễn.\nVí dụ:\nWATASHI WA GOHAN O TABEMASU. (Tôi ăn cơm.)\n>> WATASHI WA GOHAN O TABETE IMASU. (Tôi đang ăn cơm.)",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "次は新宿駅です。さあ、降りましょう。",
+          "romaji" : "TSUGI WA SHINJUKU EKI DESU. SÂ, ORIMASHÔ.",
+          "vn" : "Ga tới là ga Shinjuku. Nào, xuống tàu thôi!", 
+          "audio" : "le15_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "ロドリゴ",
+  	      "romaji_name" : "Rodrigo",
+          "kana" : "あれ。あの人たち、寝ています。",
+          "romaji" : "ARE. ANO HITO TACHI, NETE IMASU.",
+          "vn" : "Ôi! Những người đó đang ngủ.", 
+          "audio" : "le15_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "大丈夫かな。",
+          "romaji" : "DAIJÔBU KANA.",
+          "vn" : "Có sao không nhỉ?", 
+          "audio" : "le15_v_sc03.mp3"
+        },
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "大丈夫、大丈夫。ほら、起きた。",
+          "romaji" : "DAIJÔBU, DAIJÔBU. HORA, OKITA.",
+          "vn" : "Không sao, không sao. Nhìn kìa! Họ dậy rồi.", 
+          "audio" : "le15_v_sc04.mp3"
+        }
+      ]
+    }
+  ]
+}

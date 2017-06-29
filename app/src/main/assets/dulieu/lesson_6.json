@@ -1,0 +1,37 @@
+{
+  "lesson_6":
+  [
+    {
+	  "detail" : "Chị Anna va chị Sakura tiếp tục trò chuyện trong phòng chị Anna. Chị Sakura muốn hỏi chị Anna số điện thoại của chị Anna.",
+      "main_audio" : "le6_v_scall.mp3",
+      "grammar" : "Số đếm (từ 1 đến 10):\n\n0-REI, ZERO; 1-ICHI; 2-NI; 3-SAN; 4-YON, SHI; 5-GO; 6-ROKU; 7-NANA, SHICHI; 8-HACHI; 9-KYÛ, KU; 10-JÛ\n\n__O SHIMASU\n\nSHIMASU là động từ, có nghĩa là 'làm cái gì đó'.\nKhi kết hợp từ này với các danh từ, có thể diễn tả nhiều hành động khác nhau.\nVí dụ:\nBENKYÔ (việc học) + O SHIMASU\n= BENKYÔ O SHIMASU (học)\nRYÔRI (món ăn) + O SHIMASU\n= RYÔRI O SHIMASU (nấu nướng)",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "ところでアンナさん。電話番号は何番ですか。",
+          "romaji" : "TOKORODE ANNA-SAN. DENWABANGÔ WA NANBAN DESU KA.",
+          "vn" : "Mà chị Anna này. Số điện thoại của chị là bao nhiêu?",   
+          "audio" : "le6_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "ええと。080-1234-・・・。",
+          "romaji" : "ÊTO. REI HACHI REI - ICHI NI SAN YON - ...",
+          "vn" : "Những cái đó là báu vật của tôi. Tôi đọc truyện tranh hàng ngày.",   
+          "audio" : "le6_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "ありがとう。じゃ、今度、電話をしますね。",
+          "romaji" : "ARIGATÔ. JA, KONDO, DENWA O SHIMASU NE.",
+          "vn" : "Cảm ơn chị. Thế thì, lần sau tôi sẽ điện thoại cho chị nhé.",   
+          "audio" : "le6_v_sc03.mp3"
+        }
+      ]
+    }
+  ]
+}

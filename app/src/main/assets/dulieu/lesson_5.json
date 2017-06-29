@@ -1,0 +1,37 @@
+{
+  "lesson_5":
+  [
+    {
+	  "detail" : "Chị Anna mời chị Sakura, người hướng dẫn của mình, tới thăm phòng kí túc xá. Chị Sakura phát hiện thấy một cái gì đó.",
+      "main_audio" : "le5_v_scall.mp3",
+      "grammar" : "Chủ ngữ WA Bổ ngữ O Động từ\n\nThông thường, trật tự một câu tiếng Nhật là Chủ ngữ, Bổ ngữ và Động từ. O là trợ từ đứng sau từ chỉ đối tượng của hành động, tức là bổ ngữ.\nVí dụ: WATASHI WA MANGA O YOMIMASU. (Tôi đọc truyện tranh.)",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "私の部屋はこちらです。どうぞ。",
+          "romaji" : "WATASHI NO HEYA WA KOCHIRA DESU. DÔZO.",
+          "vn" : "Phòng tôi ở hướng này. Xin mời chị vào.",   
+          "audio" : "le5_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "さくら",
+  	      "romaji_name" : "Sakura",
+          "kana" : "すごい!これは全部マンガ?",
+          "romaji" : "SUGOI! KORE WA ZENBU MANGA?",
+          "vn" : "Tuyệt quá! Những cái này tất cả là truyện tranh à?",   
+          "audio" : "le5_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "それは私の宝物です。私は毎日マンガを読みます。",
+          "romaji" : "SORE WA WATASHI NO TAKARAMONO DESU. WATASHI WA MAINICHI MANGA O YOMIMASU.",
+          "vn" : "Những cái đó là báu vật của tôi. Tôi đọc truyện tranh hàng ngày.",   
+          "audio" : "le5_v_sc03.mp3"
+        }
+      ]
+    }
+  ]
+}

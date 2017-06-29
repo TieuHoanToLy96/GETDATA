@@ -1,0 +1,239 @@
+﻿{
+	"trai_cay":
+	[
+		{
+			"kanji" : "果物",
+			"kana" : "くだもの",
+			"romaji" : "kuda mono",
+			"vn" : "trái cây"
+		},
+		{
+			"kanji" : "",
+			"kana" : "フルーツ",
+			"romaji" : "furu-tsu",
+			"vn" : "trái cây"
+		},
+		{
+			"kanji" : "林檎",
+			"kana" : "りんご / リンゴ",
+			"romaji" : "ringo",
+			"vn" : "táo"
+		},
+		{
+			"kanji" : "",
+			"kana" : "オレンジ",
+			"romaji" : "orenji",
+			"vn" : "trái cam"
+		},
+		{
+			"kanji" : "",
+			"kana" : "バナナ",
+			"romaji" : "banana",
+			"vn" : "chuối"
+		},
+		{
+			"kanji" : "西瓜",
+			"kana" : "すいか / スイカ",
+			"romaji" : "suika",
+			"vn" : "dưa hấu"
+		},
+		{
+			"kanji" : "苺",
+			"kana" : "いちご / イチゴ",
+			"romaji" : "ichigo",
+			"vn" : "dâu"
+		},
+		{
+			"kanji" : "檸檬",
+			"kana" : "レモン",
+			"romaji" : "remon",
+			"vn" : "chanh"
+		},
+		{
+			"kanji" : "桃",
+			"kana" : "もも / モモ",
+			"romaji" : "momo",
+			"vn" : "đào"
+		},
+		{
+			"kanji" : "梨",
+			"kana" : "なし",
+			"romaji" : "nashi",
+			"vn" : "lê"
+		},
+		{
+			"kanji" : "",
+			"kana" : "マンゴー",
+			"romaji" : "mango-",
+			"vn" : "xoài"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ドリアン",
+			"romaji" : "dorian",
+			"vn" : "Durian"
+		},
+		{
+			"kanji" : "",
+			"kana" : "パイナップル",
+			"romaji" : "painappuru",
+			"vn" : "trái dứa"
+		},
+		{
+			"kanji" : "蜜柑",
+			"kana" : "みかん",
+			"romaji" : "mikan",
+			"vn" : "Mandarin Orange"
+		},
+		{
+			"kanji" : "葡萄",
+			"kana" : "ぶどう",
+			"romaji" : "budou",
+			"vn" : "giống nho"
+		},
+		{
+			"kanji" : "干し葡萄",
+			"kana" : "ほしぶどう",
+			"romaji" : "hoshi budou",
+			"vn" : "nho khô"
+		},
+		{
+			"kanji" : "梅",
+			"kana" : "うめ",
+			"romaji" : "ume",
+			"vn" : "mận"
+		},
+		{
+			"kanji" : "杏",
+			"kana" : "あんず",
+			"romaji" : "anzu",
+			"vn" : "mơ"
+		},
+		{
+			"kanji" : "",
+			"kana" : "アプリコット",
+			"romaji" : "apurikotto",
+			"vn" : "mơ"
+		},
+		{
+			"kanji" : "",
+			"kana" : "サクランボ",
+			"romaji" : "sakuranbo",
+			"vn" : "anh đào"
+		},
+		{
+			"kanji" : "",
+			"kana" : "チェリー",
+			"romaji" : "cheri-",
+			"vn" : "anh đào"
+		},
+		{
+			"kanji" : "柿",
+			"kana" : "カキ",
+			"romaji" : "kaki",
+			"vn" : "cây hồng"
+		},
+		{
+			"kanji" : "無花果",
+			"kana" : "イチジク",
+			"romaji" : "ichijiku",
+			"vn" : "sung"
+		},
+		{
+			"kanji" : "栗",
+			"kana" : "クリ",
+			"romaji" : "kuri",
+			"vn" : "Hạt Dẻ"
+		},
+		{
+			"kanji" : "柚 / 柚子",
+			"kana" : "ゆず",
+			"romaji" : "yuzu",
+			"vn" : "cây thanh yên"
+		},
+		{
+			"kanji" : "石榴",
+			"kana" : "ざくろ",
+			"romaji" : "zakuro",
+			"vn" : "trái thạch lựu"
+		},
+		{
+			"kanji" : "",
+			"kana" : "メロン",
+			"romaji" : "meron",
+			"vn" : "dưa gang"
+		},
+		{
+			"kanji" : "",
+			"kana" : "グアバ",
+			"romaji" : "guaba",
+			"vn" : "trái ổi"
+		},
+		{
+			"kanji" : "",
+			"kana" : "キウイ",
+			"romaji" : "kiui",
+			"vn" : "kiwi"
+		},
+		{
+			"kanji" : "",
+			"kana" : "パパイヤ",
+			"romaji" : "papaiya",
+			"vn" : "đu đủ"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ココナッツ",
+			"romaji" : "kokonattsu",
+			"vn" : "dừa"
+		},
+		{
+			"kanji" : "",
+			"kana" : "グレープフルーツ",
+			"romaji" : "gure-pu furu-tsu",
+			"vn" : "bưởi"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ジャックフルーツ",
+			"romaji" : "jakku furu-tsu",
+			"vn" : "mít"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ブルーベリー",
+			"romaji" : "buru- beri-",
+			"vn" : "việt quất"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ブラックベリー",
+			"romaji" : "burakku beri-",
+			"vn" : "dâu đen"
+		},
+		{
+			"kanji" : "木苺",
+			"kana" : "きいちご",
+			"romaji" : "kiichigo",
+			"vn" : "mâm xôi"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ラズベリー",
+			"romaji" : "razu beri-",
+			"vn" : "mâm xôi"
+		},
+		{
+			"kanji" : "",
+			"kana" : "アボカド",
+			"romaji" : "abokado",
+			"vn" : "trái bơ"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ライム",
+			"romaji" : "raimu",
+			"vn" : " trái vôi"
+		}
+	]
+}

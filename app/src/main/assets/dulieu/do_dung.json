@@ -1,0 +1,215 @@
+{
+	"do_dung":
+	[
+		{
+			"kanji" : "家",
+			"kana" : "いえ",
+			"romaji" : "ie",
+			"vn" : "nhà"
+		},
+		{
+			"kanji" : "屋根",
+			"kana" : "やね",
+			"romaji" : "yane",
+			"vn" : "mái nhà"
+		},
+		{
+			"kanji" : "庭",
+			"kana" : "にわ",
+			"romaji" : "niwa",
+			"vn" : "vườn "
+		},
+		{
+			"kanji" : "芝刈り機",
+			"kana" : "しばかりき",
+			"romaji" : "shibakariki",
+			"vn" : "máy cắt cỏ"
+		},
+		{
+			"kanji" : "ドア, 戸",
+			"kana" : "どあ, と",
+			"romaji" : "doa, to",
+			"vn" : "cửa "
+		},
+		{
+			"kanji" : "ドアノブ、取っ手",
+			"kana" : "どあ のぶ、とって",
+			"romaji" : "doa nobu, totte",
+			"vn" : "tay nắm cửa"
+		},
+		{
+			"kanji" : "鍵穴",
+			"kana" : "かぎあな",
+			"romaji" : "kagiana",
+			"vn" : "lỗ khoá"
+		},
+		{
+			"kanji" : "キー, 鍵",
+			"kana" : "きー, かぎ",
+			"romaji" : "kii, kagi",
+			"vn" : "khoá"
+		},
+		{
+			"kanji" : "",
+			"kana" : "キーホルダー",
+			"romaji" : "kii horudaa",
+			"vn" : "móc khoá "
+		},
+		{
+			"kanji" : "鍵, 南京錠",
+			"kana" : "かぎ、なんきんじょう",
+			"romaji" : "kagi, nankinjoo",
+			"vn" : "ổ khoá "
+		},
+		{
+			"kanji" : "要, 蝶番",
+			"kana" : "かなめ, ちょうつがい",
+			"romaji" : "kaname, chootsugai",
+			"vn" : "bản lề "
+		},
+		{
+			"kanji" : "",
+			"kana" : "エアコン",
+			"romaji" : "eakon",
+			"vn" : "máy điều hoà"
+		},
+		{
+			"kanji" : "",
+			"kana" : "リビングルーム",
+			"romaji" : "ribingu ruumu",
+			"vn" : "phòng khách"
+		},
+		{
+			"kanji" : "椅子",
+			"kana" : "いす",
+			"romaji" : "isu",
+			"vn" : "ghế dựa"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ソファー",
+			"romaji" : "sofaa",
+			"vn" : "ghế bành"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ロッキングチェア",
+			"romaji" : "rokkingu chea",
+			"vn" : "ghế bập bênh"
+		},
+		{
+			"kanji" : "椅子, いす",
+			"kana" : "いす, いす",
+			"romaji" : "isu",
+			"vn" : "ghế đẩu"
+		},
+		{
+			"kanji" : "本棚",
+			"kana" : "ほんだな",
+			"romaji" : "hondana",
+			"vn" : "kệ sách"
+		},
+		{
+			"kanji" : "棚",
+			"kana" : "たな",
+			"romaji" : "tana",
+			"vn" : "kệ"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ソファー",
+			"romaji" : "sofaa",
+			"vn" : "ghế sô pha"
+		},
+		{
+			"kanji" : "",
+			"kana" : "クッション",
+			"romaji" : "kusshon",
+			"vn" : "miếng đệm ghế "
+		},
+		{
+			"kanji" : "花瓶",
+			"kana" : "かびん",
+			"romaji" : "kabin",
+			"vn" : "bình hoa"
+		},
+		{
+			"kanji" : "灰皿",
+			"kana" : "はいざら",
+			"romaji" : "haizara",
+			"vn" : "gạt tàn thuốc "
+		},
+		{
+			"kanji" : "",
+			"kana" : "たばこ",
+			"romaji" : "tabako",
+			"vn" : "thuốc lá"
+		},
+		{
+			"kanji" : "煙",
+			"kana" : "けむり",
+			"romaji" : "kemuri",
+			"vn" : "Khói"
+		},
+		{
+			"kanji" : "葉巻き",
+			"kana" : "は まき",
+			"romaji" : "ha maki",
+			"vn" : "Xì gà"
+		},
+		{
+			"kanji" : "",
+			"kana" : "パイプ",
+			"romaji" : "paipu",
+			"vn" : "tẩu thuốc"
+		},
+		{
+			"kanji" : "暖炉",
+			"kana" : "だんろ",
+			"romaji" : "danro",
+			"vn" : "lò sưởi"
+		},
+		{
+			"kanji" : "薪",
+			"kana" : "まき",
+			"romaji" : "maki",
+			"vn" : "củi"
+		},
+		{
+			"kanji" : "敷物, ラグ",
+			"kana" : "しきもの, ラグ",
+			"romaji" : "shikimono, ragu",
+			"vn" : "tấm trải sàn"
+		},
+		{
+			"kanji" : "",
+			"kana" : "カーペット",
+			"romaji" : "kaapetto",
+			"vn" : "thảm"
+		},
+		{
+			"kanji" : "キッチン, 台所",
+			"kana" : " キッチン、だいどころ",
+			"romaji" : "kicchin, daidokoro",
+			"vn" : "nhà bếp"
+		},
+		{
+			"kanji" : "冷蔵庫",
+			"kana" : "れいぞうこ",
+			"romaji" : "reizouko",
+			"vn" : "tủ lạnh"
+		},
+		{
+			"kanji" : "冷凍庫",
+			"kana" : "れいとうこ",
+			"romaji" : "reetooko",
+			"vn" : "ngăn đá"
+		},
+		{
+			"kanji" : "製氷皿",
+			"kana" : "せいひょうざら",
+			"romaji" : "seihyoozara",
+			"vn" : "khay làm đá"
+		}
+	]
+}

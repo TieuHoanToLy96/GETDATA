@@ -1,0 +1,191 @@
+﻿{
+	"mau_sac":
+	[
+		{
+			"kanji" : "色",
+			"kana" : "いろ",
+			"romaji" : "iro",
+			"vn" : "Màu sắc"
+		},
+		{
+			"kanji" : "白",
+			"kana" : "しろ",
+			"romaji" : "shiro",
+			"vn" : "Màu trắng"
+		},
+		{
+			"kanji" : "黒",
+			"kana" : "くろ",
+			"romaji" : "kuro",
+			"vn" : "Màu đen"
+		},
+		{
+			"kanji" : "赤",
+			"kana" : "あか",
+			"romaji" : "aka",
+			"vn" : "Màu đỏ"
+		},
+		{
+			"kanji" : "青",
+			"kana" : "あお",
+			"romaji" : "ao",
+			"vn" : "Màu xanh lơ"
+		},
+		{
+			"kanji" : "緑",
+			"kana" : "みどり",
+			"romaji" : "midori",
+			"vn" : "Màu xanh lá cây"
+		},
+		{
+			"kanji" : "紫",
+			"kana" : "むらさき",
+			"romaji" : "murasaki",
+			"vn" : "Màu tím"
+		},
+		{
+			"kanji" : "黄色",
+			"kana" : "きいろ",
+			"romaji" : "ki iro",
+			"vn" : "Màu vàng"
+		},
+		{
+			"kanji" : "茶色",
+			"kana" : "ちゃいろ",
+			"romaji" : "cha iro",
+			"vn" : "Màu nâu"
+		},
+		{
+			"kanji" : "金色",
+			"kana" : "きんいろ",
+			"romaji" : "kin iro",
+			"vn" : "Màu bạch kim"
+		},
+		{
+			"kanji" : "銀色",
+			"kana" : "ぎんいろ",
+			"romaji" : "gin iro",
+			"vn" : "Màu bạc"
+		},
+		{
+			"kanji" : "桃色",
+			"kana" : "ももいろ",
+			"romaji" : "momo iro",
+			"vn" : "Màu hoa đào"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ピンク",
+			"romaji" : "pinku",
+			"vn" : "Màu hồng"
+		},
+		{
+			"kanji" : "灰色",
+			"kana" : "はいいろ",
+			"romaji" : "hai iro",
+			"vn" : "Màu xám"
+		},
+		{
+			"kanji" : "",
+			"kana" : "グレー",
+			"romaji" : "gure-",
+			"vn" : "Màu xám"
+		},
+		{
+			"kanji" : "橙色",
+			"kana" : "だいだいいろ",
+			"romaji" : "daidai iro",
+			"vn" : "Màu cam"
+		},
+		{
+			"kanji" : "",
+			"kana" : "オレンジ",
+			"romaji" : "orenji",
+			"vn" : "Màu cam"
+		},
+		{
+			"kanji" : "水色",
+			"kana" : "みずいろ",
+			"romaji" : "mizu iro",
+			"vn" : "Màu xanh của nước"
+		},
+		{
+			"kanji" : "紺色",
+			"kana" : "こんいろ",
+			"romaji" : "kon iro",
+			"vn" : "Màu xanh đậm"
+		},
+		{
+			"kanji" : "藍色",
+			"kana" : "あいいろ",
+			"romaji" : "ai iro",
+			"vn" : "Màu chàm"
+		},
+		{
+			"kanji" : "藤色",
+			"kana" : "ふじいろ",
+			"romaji" : "fuji iro",
+			"vn" : "Màu đỏ tía"
+		},
+		{
+			"kanji" : "焦げ茶色",
+			"kana" : "こげちゃいろ",
+			"romaji" : "kogecha iro",
+			"vn" : "Màu nâu đen"
+		},
+		{
+			"kanji" : "黄土色",
+			"kana" : "おうどいろ",
+			"romaji" : "oudo iro",
+			"vn" : "Vàng son"
+		},
+		{
+			"kanji" : "黄緑",
+			"kana" : "きみどり",
+			"romaji" : "ki midori",
+			"vn" : "Màu xanh đọt chuối"
+		},
+		{
+			"kanji" : "深緑",
+			"kana" : "ふかみどり",
+			"romaji" : "fuka midori",
+			"vn" : "Màu xanh lục sẫm"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ダークグリーン",
+			"romaji" : "da-ku guri-n",
+			"vn" : "Màu xanh lá cây đậm"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ベージュ",
+			"romaji" : "be-ju",
+			"vn" : "Màu be"
+		},
+		{
+			"kanji" : "朱色",
+			"kana" : "しゅいろ",
+			"romaji" : "shu iro",
+			"vn" : "Màu đỏ tươi"
+		},
+		{
+			"kanji" : "銅色",
+			"kana" : "あかがねいろ",
+			"romaji" : "akagane iro",
+			"vn" : "Màu đồng"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ライラック",
+			"romaji" : "rairakku",
+			"vn" : "Màu hoa cà"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ターコイズ",
+			"romaji" : "ta-koizu",
+			"vn" : "Xanh ngọc"
+		}
+	]
+}

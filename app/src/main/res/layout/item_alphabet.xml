@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="80dp"
+    android:layout_height="100dp"
+    android:background="@drawable/shape_item_alphabet"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:weightSum="4">
+
+    <TextView
+        android:id="@+id/tvJapanese"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_weight="3"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:text="気"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/tvRomaji"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:text="Ki"
+        android:textSize="13dp" />
+
+
+</LinearLayout>

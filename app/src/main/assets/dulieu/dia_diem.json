@@ -1,0 +1,185 @@
+﻿{
+	"dia_diem":
+	[
+		{
+			"kanji" : "建物",
+			"kana" : "たてもの",
+			"romaji" : "tatemono",
+			"vn" : "Tòa nhà"
+		},
+		{
+			"kanji" : "",
+			"kana" : "ビル",
+			"romaji" : "biru",
+			"vn" : "Tòa nhà"
+		},
+		{
+			"kanji" : "",
+			"kana" : "マンション",
+			"romaji" : "manshon",
+			"vn" : "Dinh thự"
+		},
+		{
+			"kanji" : "場所",
+			"kana" : "ばしょ",
+			"romaji" : "basho",
+			"vn" : "Địa điểm, vị trí"
+		},
+		{
+			"kanji" : "空港",
+			"kana" : "くうこう",
+			"romaji" : "kuukou",
+			"vn" : "Sân bay"
+		},
+		{
+			"kanji" : "飛行場",
+			"kana" : "ひこうじょう",
+			"romaji" : "hikoujou",
+			"vn" : "Sân bay"
+		},
+		{
+			"kanji" : "港",
+			"kana" : "みなと",
+			"romaji" : "minato",
+			"vn" : "Cảng"
+		},
+		{
+			"kanji" : "郵便局",
+			"kana" : "ゆうびんきょく",
+			"romaji" : "yuubinkyoku",
+			"vn" : "Bưu điện"
+		},
+		{
+			"kanji" : "銀行",
+			"kana" : "ぎんこう",
+			"romaji" : "ginkou",
+			"vn" : "Ngân hàng"
+		},
+		{
+			"kanji" : "市役所",
+			"kana" : "しやくしょ",
+			"romaji" : "shiyakusho",
+			"vn" : "Tòa thị chính thành phố"
+		},
+		{
+			"kanji" : "駅",
+			"kana" : "えき",
+			"romaji" : "eki",
+			"vn" : "Ga tàu"
+		},
+		{
+			"kanji" : "病院",
+			"kana" : "びょういん",
+			"romaji" : "byouin",
+			"vn" : "Bệnh viện"
+		},
+		{
+			"kanji" : "美容院",
+			"kana" : "びよういん",
+			"romaji" : "biyouin",
+			"vn" : "Salon tóc"
+		},
+		{
+			"kanji" : "学校",
+			"kana" : "がっこう",
+			"romaji" : "gakkou",
+			"vn" : "Trường học"
+		},
+		{
+			"kanji" : "小学校",
+			"kana" : "しょうがっこう",
+			"romaji" : "shougakkou",
+			"vn" : "Trường tiểu học"
+		},
+		{
+			"kanji" : "中学校",
+			"kana" : "ちゅうがっこう",
+			"romaji" : "chuugakkou",
+			"vn" : "Trường trung học"
+		},
+		{
+			"kanji" : "高校",
+			"kana" : "こうこう",
+			"romaji" : "koukou",
+			"vn" : "Trường phổ thông"
+		},
+		{
+			"kanji" : "大学",
+			"kana" : "だいがく",
+			"romaji" : "daigaku",
+			"vn" : "Trường đại học"
+		},
+		{
+			"kanji" : "大学院",
+			"kana" : "だいがくいん",
+			"romaji" : "daigakuin",
+			"vn" : "Viện đào tạo sau đại học"
+		},
+		{
+			"kanji" : "寮",
+			"kana" : "りょう",
+			"romaji" : "ryou",
+			"vn" : "Kí túc xá"
+		},
+		{
+			"kanji" : "寄宿舎",
+			"kana" : "きしゅくしゃ",
+			"romaji" : "kishukusha",
+			"vn" : "ký túc xá/ký túc"
+		},
+		{
+			"kanji" : "図書館",
+			"kana" : "としょかん",
+			"romaji" : "toshokan",
+			"vn" : "Thư viện"
+		},
+		{
+			"kanji" : "水族館",
+			"kana" : "すいぞくかん",
+			"romaji" : "suizokukan",
+			"vn" : "Viện hải dương"
+		},
+		{
+			"kanji" : "映画館",
+			"kana" : "えいがかん",
+			"romaji" : "eigakan",
+			"vn" : "Rạp chiếu phim"
+		},
+		{
+			"kanji" : "博物館",
+			"kana" : "はくぶつかん",
+			"romaji" : "hakubutsukan",
+			"vn" : "Bảo tàng"
+		},
+		{
+			"kanji" : "美術館",
+			"kana" : "びじゅつかん",
+			"romaji" : "bijutsukan",
+			"vn" : "Bảo tàng nghệ thuật"
+		},
+		{
+			"kanji" : "体育館",
+			"kana" : "たいいくかん",
+			"romaji" : "taiikukan",
+			"vn" : "Phòng tập Gym"
+		},
+		{
+			"kanji" : "記念館",
+			"kana" : "きねんかん",
+			"romaji" : "kinenkan",
+			"vn" : "Nhà kỉ niệm"
+		},
+		{
+			"kanji" : "大使館",
+			"kana" : "たいしかん",
+			"romaji" : "taishikan",
+			"vn" : "Đại sứ quán"
+		},
+		{
+			"kanji" : "旅館",
+			"kana" : "りょかん",
+			"romaji" : "ryokan",
+			"vn" : "Nhà trọ kiểu Nhật"
+		}
+	]
+}

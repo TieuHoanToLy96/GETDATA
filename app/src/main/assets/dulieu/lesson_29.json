@@ -1,0 +1,37 @@
+{
+  "lesson_29":
+  [
+    {
+	  "detail" : "Chị Anna đến thăm thành phố Shizuoka, quê hương chị Sakura. Hôm nay, chị được anh Kenta, em họ chị Sakura, đưa đến điểm có thể ngắm nhìn cảnh quan hùng vĩ của núi Phú Sĩ.",
+      "main_audio" : "le29_v_scall.mp3",
+      "grammar" : "__TO\n\nTrợ từ TO khi đứng sau động từ để chỉ điều kiện. Động từ đứng trước TO ở thể từ điển hoặc thể NAI.\nVí dụ: ANO KUMO GA MIERU TO, AME GA FURIMASU. (Nếu nhìn thấy đám mây kia, thì trời sẽ mưa.)",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "富士山だ。近くで見ると、大きいですね。",
+          "romaji" : "FUJISAN DA. CHIKAKU DE MIRU TO, ÔKII DESU NE.",
+          "vn" : "Núi Phú Sĩ đây rồi. Khi nhìn gần, trông lớn nhỉ!", 
+          "audio" : "le29_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "あれ。雲の形が帽子みたいです。",
+          "romaji" : "ARE. KUMO NO KATACHI GA BÔSHI MITAI DESU.",
+          "vn" : "Ôi! Hình dáng của đám mây trông giống chiếc mũ.", 
+          "audio" : "le29_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "健太",
+  	      "romaji_name" : "Kenta",
+          "kana" : "あの雲が見えると、雨が降るんだよ。",
+          "romaji" : "ANO KUMO GA MIERU TO, AME GA FURU N DA YO.",
+          "vn" : "Nếu nhìn thấy đám mây kia, thì trời sẽ mưa đấy.", 
+          "audio" : "le29_v_sc03.mp3"
+        }
+      ]
+    }
+  ]
+}

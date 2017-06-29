@@ -1,0 +1,37 @@
+{
+  "lesson_25":
+  [
+    {
+	  "detail" : "Khi chị Anna đang trong lớp tiếng Nhật của Giáo sư Suzuki thì tòa nhà bắt đầu rung lắc.",
+      "main_audio" : "le25_v_scall.mp3",
+      "grammar" : "YÔ DA / YÔ DESU\n\nYÔDA là cách nói thân mật của YÔ DESU, để chỉ là người nói đã đánh giá tình hình và đưa ra nhận xét nào đó về sự vật, sự việc. Trước YÔDA không dùng động từ ở thể MASU. Thay vào đó, câu này dùng động từ thể TA.\nVí dụ: YURE WA OSAMATTA YÔ DA. (Có vẻ như đã bớt rung lắc rồi).\n* OSAMATTA = thể TA của OSAMARIMASU (bớt, giảm)\n\nSự khác nhau giữa trợ từ WA và GA\n\nWA: trợ từ chỉ chủ đề của câu.\nGA: trợ từ chỉ chủ ngữ của câu.\nChủ đề là đề tài chung của câu nói, được thể hiện bằng trợ từ WA. Chủ ngữ liên quan đến chủ đề và được thể hiện bằng trợ từ GA hoặc WA. Vị ngữ thể hiện chủ ngữ làm gì hoặc trong trạng thái hoặc hình thái như thế nào.\nVí dụ: ZÔ WA HANA GA NAGAI. (Con voi thì mũi dài.)",
+      "dialogue" : 
+      [
+        {
+          "kana_name" : "先生",
+  	      "romaji_name" : "Thầy giáo",
+          "kana" : "地震だ。みんな、落ち着いて。机の下に入れ。",
+          "romaji" : "JISHIN DA. MINNA, OCHITSUITE. TSUKUE NO SHITA NI HAIRE.",
+          "vn" : "Có động đất! Tất cả mọi người, hãy bình tĩnh! Chui xuống gầm bàn!",
+          "audio" : "le25_v_sc01.mp3"
+        },
+        {
+          "kana_name" : "先生",
+  	      "romaji_name" : "Thầy giáo",
+          "kana" : "揺れは収まったようだ。",
+          "romaji" : "YURE WA OSAMATTA YÔ DA.",
+          "vn" : "Có vẻ như đã bớt rung lắc rồi.",
+          "audio" : "le25_v_sc02.mp3"
+        },
+        {
+          "kana_name" : "アンナ",
+  	      "romaji_name" : "Anna",
+          "kana" : "びっくりした。日本は本当に地震が多いですね。",
+          "romaji" : "BIKKURI SHITA. NIHON WA HONTÔ NI JISHIN GA ÔI DESU NE.",
+          "vn" : "Giật cả mình! Nhật Bản đúng là hay có động đất nhỉ.", 
+          "audio" : "le25_v_sc03.mp3"
+        }
+      ]
+    }
+  ]
+}
