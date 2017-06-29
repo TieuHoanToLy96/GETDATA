@@ -59,8 +59,6 @@ public class WidgetLearnAlphabets extends AppWidgetProvider {
                 ims = assetManager.open("image/katakana/" + alphabetsNotSpace.get(position).getRomaji() + ".PNG");
             }
 
-
-
             Bitmap bmp = BitmapFactory.decodeStream(ims);
             views.setImageViewBitmap(R.id.imgWidget, bmp);
 
