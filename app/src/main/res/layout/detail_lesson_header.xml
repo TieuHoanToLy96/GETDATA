@@ -23,7 +23,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="3"
-                android:paddingRight="5dp"
+                android:background="@drawable/boder_edittext"
+                android:padding="2dp"
                 android:src="@mipmap/background" />
 
             <TextView
@@ -39,6 +40,7 @@
                 android:textColor="#000000"
                 android:textSize="15dp" />
         </LinearLayout>
+
 
         <LinearLayout
             android:layout_width="0dp"
@@ -61,6 +63,7 @@
                 android:layout_height="0dp"
                 android:layout_weight="1"
                 android:weightSum="3">
+
 
                 <TextView
                     android:layout_width="0dp"
@@ -99,7 +102,7 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
 
-       >
+        >
 
         <View
             android:layout_width="match_parent"
@@ -122,10 +125,10 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:padding="5dp"
-            android:textSize="17dp"
-
             android:text="Động từ thể TE có thể nối các câu\n\nCó thể dùng thể TE của động từ để diễn đạt một chuỗi các hành động xảy ra nối tiếp nhau.\nVí dụ:\nKAIDAN O AGARIMASU. (Hãy lên cầu thang)\n+ MIGI NI ITTE KUDASAI. (Hãy rẽ phải)\n= KAIDAN O AGATTE, MIGI NI ITTE KUDASAI. (Hãy lên cầu thang rồi rẽ phải.)"
-            android:textColor="#000000" />
+
+            android:textColor="#000000"
+            android:textSize="17dp" />
 
 
     </LinearLayout>

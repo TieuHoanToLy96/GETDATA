@@ -89,7 +89,7 @@ public class TagFragment extends Fragment implements View.OnClickListener {
 
     public void eventImgFavorite() {
         ViewPagerFileFragment vpgFd = new ViewPagerFileFragment();
-        FragmentControl.goToFragmentAddBackStack(R.id.framelayout, new ToolBarHideFragment(vpgFd), context, getClass().getName());
+        FragmentControl.goToFragmentAddBackStack(R.id.framelayout, new ToolBarFragment(vpgFd), context, getClass().getName());
     }
 
     public void eventImgLesson() {

@@ -76,7 +76,6 @@ public class FileFragment extends Fragment implements FileDownloadAdapter.OnClic
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.file_fragment, null, false);
         bindView(view);
-
         return view;
     }
 
@@ -198,7 +197,6 @@ public class FileFragment extends Fragment implements FileDownloadAdapter.OnClic
         ///event
         int positionRename = 0;
         for (int i = 0; i < files.size(); i++) {
-
             if (files.get(i).getCheckedFile()) {
                 edtNewName.setText(files.get(i).getFileName());
                 positionRename = i;
@@ -216,7 +214,6 @@ public class FileFragment extends Fragment implements FileDownloadAdapter.OnClic
         tvOK.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Log.e("tieuhoan", "positionRename " + finalPositionRename);
                 rename(finalPositionRename, dialog);
 
             }
@@ -233,9 +230,17 @@ public class FileFragment extends Fragment implements FileDownloadAdapter.OnClic
         }
 
         String newName = String.valueOf(edtNewName.getText());
-        File from = new File(DownloadTask.PATH_FOLDER, files.get(positionRename).getFileName());
-        File to = new File(DownloadTask.PATH_FOLDER, newName);
+        String type;
+        if (isPDF) {
+            type = ".pdf";
+        } else {
+            type = ".mp3";
+        }
+        File from = new File(DownloadTask.PATH_FOLDER, files.get(positionRename).getFileName() + type);
+        File to = new File(DownloadTask.PATH_FOLDER, newName + type);
         from.renameTo(to);
+
+        files.get(positionRename).setFileName(newName);
         downloadAdapter.notifyDataSetChanged();
         dialog.dismiss();
 

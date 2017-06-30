@@ -24,17 +24,20 @@ public class DownloadTask extends AsyncTask<String, Integer, String> {
     private Context context;
     private PowerManager.WakeLock mWakeLock;
     private ProgressDialog mProgressDialog;
-    private String typeFile, nameFile;
+    private String typeFile;
+    private String nameFile;
     public static final String FOLDER = "TieuHoan";
     public static final String PATH_FOLDER = Environment.getExternalStorageDirectory() + "/" + FOLDER;
     private View view;
+    private boolean isShort;
 
-    public DownloadTask(Context context, ProgressDialog mProgressDialog, String typeFile, String nameFile, View view) {
+    public DownloadTask(Context context, ProgressDialog mProgressDialog, String typeFile, String nameFile, View view, boolean isShort) {
         this.context = context;
         this.mProgressDialog = mProgressDialog;
         this.typeFile = typeFile;
         this.nameFile = nameFile;
         this.view = view;
+        this.isShort = isShort;
 
     }
 
@@ -63,7 +66,13 @@ public class DownloadTask extends AsyncTask<String, Integer, String> {
 
 
             input = connection.getInputStream();
-            output = new FileOutputStream(PATH_FOLDER + "/" + nameFile + typeFile);
+            String outFile;
+            if (isShort) {
+                outFile = (new StringBuilder(nameFile)).replace(5, 6, " ").toString();
+            } else {
+                outFile = (new StringBuilder(nameFile)).replace(6, 7, " ").toString();
+            }
+            output = new FileOutputStream(PATH_FOLDER + "/" + outFile + typeFile);
 
             byte data[] = new byte[4096];
             long total = 0;
@@ -101,7 +110,7 @@ public class DownloadTask extends AsyncTask<String, Integer, String> {
     protected void onPreExecute() {
         super.onPreExecute();
         PowerManager pm = (PowerManager) context.getSystemService(Context.POWER_SERVICE);
-        mWakeLock = pm.newWakeLock(PowerManager.PARTIAL_WAKE_LOCK,getClass().getName());
+        mWakeLock = pm.newWakeLock(PowerManager.PARTIAL_WAKE_LOCK, getClass().getName());
         mWakeLock.acquire();
         mProgressDialog.show();
     }

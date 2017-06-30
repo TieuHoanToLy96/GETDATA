@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="80dp"
+    android:id="@+id/linearItemAlphabet"
     android:layout_height="100dp"
     android:background="@drawable/shape_item_alphabet"
     android:gravity="center"
     android:orientation="vertical"
+    android:layout_gravity="center_ho"
     android:padding="5dp"
     android:weightSum="4">
 

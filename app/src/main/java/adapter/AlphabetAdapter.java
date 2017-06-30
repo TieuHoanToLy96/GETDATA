@@ -5,6 +5,7 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.example.tieuhoan.getdata.R;
@@ -48,6 +49,9 @@ public class AlphabetAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolde
         } else {
             aVH.tvJapanese.setText(alphabet.getKatakana());
         }
+
+
+//        setAnimation(aVH.itemView, position);
     }
 
     @Override
@@ -57,16 +61,21 @@ public class AlphabetAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolde
 
     public class AlphabetViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
 
+        public LinearLayout linearItemAlphbet;
         public TextView tvJapanese, tvRomaji;
 
         public AlphabetViewHolder(View itemView) {
             super(itemView);
-
+            linearItemAlphbet = (LinearLayout) itemView.findViewById(R.id.linearItemAlphabet);
             tvJapanese = (TextView) itemView.findViewById(R.id.tvJapanese);
             tvRomaji = (TextView) itemView.findViewById(R.id.tvRomaji);
 
             itemView.setOnClickListener(this);
         }
+
+//        public void clearAnimation() {
+//            linearItemAlphbet.clearAnimation();
+//        }
 
         @Override
         public void onClick(View v) {
@@ -87,4 +96,20 @@ public class AlphabetAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolde
 
     public OnClickItemRecycleView onClickItemRecycleView;
 
+
+    private int lastPosition = -1;
+
+//    private void setAnimation(View viewToAnimate, int position) {
+//        // If the bound view wasn't previously displayed on screen, it's animated
+//        if (position > lastPosition) {
+//            Animation animation = AnimationUtils.loadAnimation(context, R.anim.fade_in);
+//            viewToAnimate.startAnimation(animation);
+//            lastPosition = position;
+//        }
+//    }
+
+//    @Override
+//    public void onViewDetachedFromWindow(RecyclerView.ViewHolder holder) {
+//        ((AlphabetViewHolder) holder).clearAnimation();
+//    }
 }

@@ -8,7 +8,6 @@ import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -61,6 +60,7 @@ public class AlphabetFragment extends Fragment implements AlphabetAdapter.OnClic
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.alphabet_fragment, null, false);
         bindView(view);
+
         setHasOptionsMenu(isVisibleToggle);
         return view;
     }
@@ -87,20 +87,15 @@ public class AlphabetFragment extends Fragment implements AlphabetAdapter.OnClic
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
         inflater.inflate(R.menu.toolbar, menu);
         toggleWidget = (ToggleButton) menu.findItem(R.id.toggle).getActionView().findViewById(R.id.switch_show);
-//        toggleWidget.setChecked(isVisibleToggle);
         toggleWidget.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-//                if (isChecked) {
-                Log.e("tieuhoan", "click toggle");
                 Intent pickIntent = new Intent(AppWidgetManager.ACTION_APPWIDGET_PICK);
                 startActivity(pickIntent);
-//                }
             }
         });
 
         super.onCreateOptionsMenu(menu, inflater);
     }
-
 
 }

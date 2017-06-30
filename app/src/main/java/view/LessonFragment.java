@@ -46,6 +46,7 @@ public class LessonFragment extends Fragment implements ContentLessonAdapter.OnC
     public static MediaPlayer player;
     private CoordinatorLayout coordinatorLayout;
 
+    private boolean isShort ;
     public LessonFragment(int sttLesson, Lesson lesson) {
         this.sttLesson = sttLesson;
         this.lesson = lesson;
@@ -56,6 +57,11 @@ public class LessonFragment extends Fragment implements ContentLessonAdapter.OnC
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         context = getActivity();
+        if (sttLesson <10){
+            isShort= true ;
+        }else {
+            isShort = false ;
+        }
         ((AppCompatActivity) getActivity()).getSupportActionBar().setTitle(lesson.getName());
         //get content
         Json json = new Json(context);
@@ -112,7 +118,8 @@ public class LessonFragment extends Fragment implements ContentLessonAdapter.OnC
             mProgressDialog.setProgressStyle(ProgressDialog.STYLE_HORIZONTAL);
             mProgressDialog.setCancelable(true);
 
-            final DownloadTask downloadTask = new DownloadTask(context, mProgressDialog, "." + typeFile, lesson.getName(), coordinatorLayout);
+
+            final DownloadTask downloadTask = new DownloadTask(context, mProgressDialog, "." + typeFile, lesson.getName(), coordinatorLayout ,isShort);
             downloadTask.execute(linkFile);
 
             mProgressDialog.setOnCancelListener(new DialogInterface.OnCancelListener() {
