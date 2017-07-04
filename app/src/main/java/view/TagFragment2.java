@@ -11,6 +11,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+import android.widget.TextView;
 
 import com.example.tieuhoan.getdata.R;
 
@@ -30,7 +31,9 @@ public class TagFragment2 extends Fragment implements TagAdapter.OnClickItemTag 
     private Context context;
     private ArrayList<Tag> tags;
     private Tag tag;
-    private ArrayList<Fragment> fragments;
+    private ArrayList<Fragment> fragments ;
+
+    private TextView tvJustDoIt;
 
 
     @Override
@@ -82,6 +85,8 @@ public class TagFragment2 extends Fragment implements TagAdapter.OnClickItemTag 
 
     private void bindView(View view) {
         recycleViewTag = (RecyclerView) view.findViewById(R.id.recycleViewTag);
+        tvJustDoIt = (TextView) view.findViewById(R.id.tvJustDoIt);
+        tvJustDoIt.setSelected(true);
         tagAdapter = new TagAdapter(tags, context);
         recycleViewTag.setLayoutManager(new GridLayoutManager(context, 2));
         recycleViewTag.setAdapter(tagAdapter);
