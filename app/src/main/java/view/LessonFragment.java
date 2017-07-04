@@ -47,6 +47,7 @@ public class LessonFragment extends Fragment implements ContentLessonAdapter.OnC
     private CoordinatorLayout coordinatorLayout;
 
     private boolean isShort ;
+
     public LessonFragment(int sttLesson, Lesson lesson) {
         this.sttLesson = sttLesson;
         this.lesson = lesson;

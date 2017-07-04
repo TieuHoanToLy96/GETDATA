@@ -6,6 +6,8 @@ import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 
+import com.example.tieuhoan.getdata.R;
+
 
 /**
  * Created by TieuHoan on 14/05/2017.
@@ -30,5 +32,14 @@ public class FragmentControl {
         transaction.replace(idFragment, fragment);
         transaction.commitAllowingStateLoss();
     }
+    public static void goToFragmentNoAddBackStackAnimation(int idFragment, Fragment fragment, Context context) {
+        fragmentManager = ((FragmentActivity) context).getSupportFragmentManager();
+        transaction = fragmentManager.beginTransaction();
+        transaction.setCustomAnimations(R.anim.fade_in, R.anim.fade_out);
+        transaction.replace(idFragment, fragment);
+        transaction.commitAllowingStateLoss();
+    }
+
+
 
 }

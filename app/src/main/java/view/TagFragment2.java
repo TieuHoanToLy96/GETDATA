@@ -31,7 +31,7 @@ public class TagFragment2 extends Fragment implements TagAdapter.OnClickItemTag 
     private Context context;
     private ArrayList<Tag> tags;
     private Tag tag;
-    private ArrayList<Fragment> fragments ;
+    private ArrayList<Fragment> fragments;
 
     private TextView tvJustDoIt;
 
@@ -55,15 +55,15 @@ public class TagFragment2 extends Fragment implements TagAdapter.OnClickItemTag 
         fragments.add(new ListCategoryFragment());
         tags = new ArrayList<>();
         tag = new Tag();
-        tag.setImageTag(R.mipmap.tag1).setNameTag("Alphabets").setQuotation("( Học hành vất vả kết quả ngọt bùi )");
+        tag.setImageTag(R.mipmap.tag1).setNameTag("Bảng chữ cái").setQuotation("( Học hành vất vả kết quả ngọt bùi )");
         tags.add(tag);
 
         tag = new Tag();
-        tag.setImageTag(R.mipmap.tag2).setNameTag("Vocabulary").setQuotation("( Học để làm người )");
+        tag.setImageTag(R.mipmap.tag2).setNameTag("Từ vựng Minano Nihongo").setQuotation("( Học để làm người )");
         tags.add(tag);
 
         tag = new Tag();
-        tag.setImageTag(R.mipmap.tag3).setNameTag("Lesson").setQuotation("( Học một biết mười )");
+        tag.setImageTag(R.mipmap.tag3).setNameTag("Bài học").setQuotation("( Học một biết mười )");
         tags.add(tag);
 
         tag = new Tag();
@@ -71,7 +71,7 @@ public class TagFragment2 extends Fragment implements TagAdapter.OnClickItemTag 
         tags.add(tag);
 
         tag = new Tag();
-        tag.setImageTag(R.mipmap.tag5).setNameTag("More").setQuotation("( Có cày có thóc , có học có chữ )");
+        tag.setImageTag(R.mipmap.tag5).setNameTag("Từ vựng").setQuotation("( Có cày có thóc , có học có chữ )");
         tags.add(tag);
     }
 
