@@ -6,7 +6,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
-import android.widget.ProgressBar;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
@@ -24,7 +23,8 @@ public class ListLessonAdapter extends RecyclerView.Adapter<RecyclerView.ViewHol
 
     private ArrayList<Lesson> lessons;
     private Context context;
-    private ProgressBar progressBar;
+    private final static int ITEM = 0;
+    private final static int ADMOD = 1;
 
     public ListLessonAdapter(ArrayList<Lesson> lessons, Context context) {
         this.lessons = lessons;
@@ -35,11 +35,14 @@ public class ListLessonAdapter extends RecyclerView.Adapter<RecyclerView.ViewHol
     public RecyclerView.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
 
         LayoutInflater layoutInflater = LayoutInflater.from(context);
-        View view = layoutInflater.inflate(R.layout.item_lesson, parent, false);
+        View view = null;
 
+            view = layoutInflater.inflate(R.layout.item_lesson, parent, false);
 
         return new LessonHolder(view);
     }
+
+
 
     @Override
     public void onBindViewHolder(RecyclerView.ViewHolder holder, int position) {

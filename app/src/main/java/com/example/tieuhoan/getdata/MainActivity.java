@@ -22,7 +22,8 @@ import java.util.ArrayList;
 import model.Lesson;
 import ulti.DownloadTask;
 import ulti.FragmentControl;
-import view.TagFragment;
+import view.TagFragment2;
+import view.ToolBarFragment;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -38,9 +39,7 @@ public class MainActivity extends AppCompatActivity {
         if (!myDirectory.exists()) {
             myDirectory.mkdirs();
         }
-
-        FragmentControl.goToFragmentNoAddBackStack(R.id.framelayout, new TagFragment(), MainActivity.this);
-
+        FragmentControl.goToFragmentNoAddBackStack(R.id.framelayout, new ToolBarFragment(new TagFragment2(), false), MainActivity.this);
     }
 
 

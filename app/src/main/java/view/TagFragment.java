@@ -22,6 +22,7 @@ public class TagFragment extends Fragment implements View.OnClickListener {
     private ImageView imgAlphabet, imgLesson, imgVocabulary, imgFavorite, imgNote;
     private Context context;
     private Boolean isVisibleToggle;
+    private boolean isHideArrowLeft = true;
 
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
@@ -79,27 +80,27 @@ public class TagFragment extends Fragment implements View.OnClickListener {
 
     public void eventVocabularyMinano() {
         ListVocabularyMinanoFragment minanoFragment = new ListVocabularyMinanoFragment();
-        FragmentControl.goToFragmentAddBackStack(R.id.framelayout, new ToolBarFragment(minanoFragment), context, getClass().getName());
+        FragmentControl.goToFragmentAddBackStack(R.id.framelayout, new ToolBarFragment(minanoFragment, isHideArrowLeft), context, getClass().getName());
     }
 
     public void eventVocabularyMore() {
         ListCategoryFragment listCategoryFragment = new ListCategoryFragment();
-        FragmentControl.goToFragmentAddBackStack(R.id.framelayout, new ToolBarFragment(listCategoryFragment), context, getClass().getName());
+        FragmentControl.goToFragmentAddBackStack(R.id.framelayout, new ToolBarFragment(listCategoryFragment, isHideArrowLeft), context, getClass().getName());
     }
 
     public void eventImgFavorite() {
         ViewPagerFileFragment vpgFd = new ViewPagerFileFragment();
-        FragmentControl.goToFragmentAddBackStack(R.id.framelayout, new ToolBarFragment(vpgFd), context, getClass().getName());
+        FragmentControl.goToFragmentAddBackStack(R.id.framelayout, new ToolBarFragment(vpgFd, isHideArrowLeft), context, getClass().getName());
     }
 
     public void eventImgLesson() {
         ListLessonFragment listLessonFragment = new ListLessonFragment();
-        FragmentControl.goToFragmentAddBackStack(R.id.framelayout, new ToolBarFragment(listLessonFragment), context, getClass().getName());
+        FragmentControl.goToFragmentAddBackStack(R.id.framelayout, new ToolBarFragment(listLessonFragment, isHideArrowLeft), context, getClass().getName());
     }
 
     public void eventImgAlphabet() {
         ViewPagerAlphabetFragment vpgAF = new ViewPagerAlphabetFragment(getStatusVisibleToogle());
-        FragmentControl.goToFragmentAddBackStack(R.id.framelayout, new ToolBarFragment(vpgAF), context, getClass().getName());
+        FragmentControl.goToFragmentAddBackStack(R.id.framelayout, new ToolBarFragment(vpgAF, isHideArrowLeft), context, getClass().getName());
     }
 
 

@@ -97,8 +97,8 @@ public class AlphabetAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolde
     public OnClickItemRecycleView onClickItemRecycleView;
 
 
-    private int lastPosition = -1;
-
+//    private int lastPosition = -1;
+//
 //    private void setAnimation(View viewToAnimate, int position) {
 //        // If the bound view wasn't previously displayed on screen, it's animated
 //        if (position > lastPosition) {

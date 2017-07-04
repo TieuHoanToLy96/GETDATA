@@ -25,10 +25,12 @@ public class ToolBarFragment extends Fragment {
     private Fragment fragment;
     private Toolbar toolbar;
     private ToggleButton toggleWidget;
-    private boolean isisVisibleToggle;
+    private boolean isHideArrowLeft;
 
-    public ToolBarFragment(Fragment fragment) {
+
+    public ToolBarFragment(Fragment fragment, boolean isHideArrowLeft) {
         this.fragment = fragment;
+        this.isHideArrowLeft = isHideArrowLeft;
     }
 
     @Override
@@ -54,7 +56,6 @@ public class ToolBarFragment extends Fragment {
         toolbar.setTitleTextColor(Color.WHITE);
         ((AppCompatActivity) getActivity()).setSupportActionBar(toolbar);
         ((AppCompatActivity) getActivity()).getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-
 
     }
 
