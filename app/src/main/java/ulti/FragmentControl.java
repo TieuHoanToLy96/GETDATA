@@ -14,32 +14,39 @@ import com.example.tieuhoan.getdata.R;
  */
 
 public class FragmentControl {
-    public static FragmentManager fragmentManager;
-    public static FragmentTransaction transaction;
+
 
     public static void goToFragmentAddBackStack(int idFragment, Fragment fragment, Context context, String nameClass) {
-        fragmentManager = ((FragmentActivity) context).getSupportFragmentManager();
-        transaction = fragmentManager.beginTransaction();
-//        transaction.setCustomAnimations(R.anim.fade_in, R.anim.fade_out);
+        FragmentManager fragmentManager = ((FragmentActivity) context).getSupportFragmentManager();
+        FragmentTransaction transaction = fragmentManager.beginTransaction();
+        transaction.setCustomAnimations(R.anim.fade_in, R.anim.fade_out);
         transaction.addToBackStack(nameClass);
         transaction.replace(idFragment, fragment);
         transaction.commitAllowingStateLoss();
     }
 
     public static void goToFragmentNoAddBackStack(int idFragment, Fragment fragment, Context context) {
-        fragmentManager = ((FragmentActivity) context).getSupportFragmentManager();
-        transaction = fragmentManager.beginTransaction();
-        transaction.replace(idFragment, fragment);
-        transaction.commitAllowingStateLoss();
-    }
-    public static void goToFragmentNoAddBackStackAnimation(int idFragment, Fragment fragment, Context context) {
-        fragmentManager = ((FragmentActivity) context).getSupportFragmentManager();
-        transaction = fragmentManager.beginTransaction();
+        FragmentManager fragmentManager = ((FragmentActivity) context).getSupportFragmentManager();
+        FragmentTransaction transaction = fragmentManager.beginTransaction();
         transaction.setCustomAnimations(R.anim.fade_in, R.anim.fade_out);
         transaction.replace(idFragment, fragment);
         transaction.commitAllowingStateLoss();
     }
 
+    public static void goToFragmentNoAddBackStackAnimation(int idFragment, Fragment fragment, Context context) {
+        FragmentManager fragmentManager = ((FragmentActivity) context).getSupportFragmentManager();
+        FragmentTransaction transaction = fragmentManager.beginTransaction();
+        transaction.setCustomAnimations(R.anim.fade_in, R.anim.fade_out);
+        transaction.replace(idFragment, fragment);
+        transaction.commitAllowingStateLoss();
+    }
+
+    public static void removeFragmentInBackStack(Context context) {
+        FragmentManager manager = ((FragmentActivity) context).getSupportFragmentManager();
+        for (int i = 0; i < manager.getBackStackEntryCount(); ++i) {
+            manager.popBackStack();
+        }
+    }
 
 
 }

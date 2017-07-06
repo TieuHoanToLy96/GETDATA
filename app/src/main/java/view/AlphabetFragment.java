@@ -1,20 +1,14 @@
 package view;
 
-import android.appwidget.AppWidgetManager;
 import android.content.Context;
-import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
-import android.view.Menu;
-import android.view.MenuInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.CompoundButton;
-import android.widget.ToggleButton;
 
 import com.example.tieuhoan.getdata.R;
 
@@ -23,7 +17,6 @@ import java.util.ArrayList;
 import adapter.AlphabetAdapter;
 import model.Alphabet;
 import ulti.FragmentControl;
-import ulti.Json;
 
 /**
  * Created by TieuHoan on 14/05/2017.
@@ -32,26 +25,24 @@ import ulti.Json;
 public class AlphabetFragment extends Fragment implements AlphabetAdapter.OnClickItemRecycleView {
 
 
-    public ArrayList<Alphabet> alphabets;
     private Context context;
     private RecyclerView recyclerView;
     private AlphabetAdapter alphabetAdapter;
     private boolean isHiragana;
     private int numberColum = 5;
-    private Boolean isVisibleToggle;
-    private ToggleButton toggleWidget;
+    private ArrayList<Alphabet> alphabets;
 
-    public AlphabetFragment(boolean isHiragana, Boolean isVisibleToggle) {
+
+    public AlphabetFragment(boolean isHiragana , ArrayList<Alphabet> alphabets) {
         this.isHiragana = isHiragana;
-        this.isVisibleToggle = isVisibleToggle;
+        this.alphabets = alphabets;
     }
 
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         context = getActivity();
-        Json json = new Json(context);
-        alphabets = json.getAlphabets();
+
 
     }
 
@@ -60,8 +51,6 @@ public class AlphabetFragment extends Fragment implements AlphabetAdapter.OnClic
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.alphabet_fragment, null, false);
         bindView(view);
-
-        setHasOptionsMenu(isVisibleToggle);
         return view;
     }
 
@@ -77,25 +66,9 @@ public class AlphabetFragment extends Fragment implements AlphabetAdapter.OnClic
 
     @Override
     public void OnClick(View view, int position) {
-
         if (!alphabets.get(position).getRomaji().equals(""))
             FragmentControl.goToFragmentAddBackStack(R.id.framelayoutToolBar, new ViewPagerWriteAlphabetFragment(position, alphabets, isHiragana), context, getClass().getName());
-//            FragmentControl.goToFragmentAddBackStack(R.id.framelayout, new ToolBarFragment(new ViewPagerWriteAlphabetFragment(position, alphabets, isHiragana)), context, getClass().getName());
     }
 
-    @Override
-    public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
-        inflater.inflate(R.menu.toolbar, menu);
-        toggleWidget = (ToggleButton) menu.findItem(R.id.toggle).getActionView().findViewById(R.id.switch_show);
-        toggleWidget.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
-            @Override
-            public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-                Intent pickIntent = new Intent(AppWidgetManager.ACTION_APPWIDGET_PICK);
-                startActivity(pickIntent);
-            }
-        });
-
-        super.onCreateOptionsMenu(menu, inflater);
-    }
 
 }

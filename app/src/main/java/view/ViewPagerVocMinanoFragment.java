@@ -24,22 +24,18 @@ public class ViewPagerVocMinanoFragment extends Fragment implements ViewPager.On
     private ViewPager viewPager;
     private ViewPagerWriteAlphabetAdapter adapter;
     private ArrayList<Fragment> fragments;
-    private VocabularyMinanoFragment minanoFragment;
     private int position;
 
-    public ViewPagerVocMinanoFragment(int position) {
+    public ViewPagerVocMinanoFragment(int position, ArrayList<Fragment> fragments) {
         this.position = position;
+        this.fragments = fragments;
     }
 
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         ((AppCompatActivity) getActivity()).getSupportActionBar().setTitle("Từ vựng bài " + (position + 1));
-        fragments = new ArrayList<>();
-        for (int i = 1; i < 51; i++) {
-            minanoFragment = new VocabularyMinanoFragment(i);
-            fragments.add(minanoFragment);
-        }
+
 
     }
 

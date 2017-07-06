@@ -35,7 +35,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_centerInParent="true"
-                    android:background="#c4504e4e"
+                    android:background="#d2504d4d"
                     android:gravity="center"
                     android:text="Vocabulary"
                     android:textColor="#ffffff"

@@ -4,109 +4,82 @@ import android.content.Context;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
+import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.GridLayoutManager;
+import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+import android.widget.TextView;
 
 import com.example.tieuhoan.getdata.R;
 
+import java.util.ArrayList;
+
+import adapter.TagAdapter;
+import model.Tag;
 import ulti.FragmentControl;
 
 /**
- * Created by TieuHoan on 24/05/2017.
+ * Created by TieuHoan on 04/07/2017.
  */
 
-public class TagFragment extends Fragment implements View.OnClickListener {
-
-    private ImageView imgAlphabet, imgLesson, imgVocabulary, imgFavorite, imgNote;
+public class TagFragment extends Fragment implements TagAdapter.OnClickItemTag {
+    private RecyclerView recycleViewTag;
+    private TagAdapter tagAdapter;
     private Context context;
-    private Boolean isVisibleToggle;
-    private boolean isHideArrowLeft = true;
+
+    private TextView tvJustDoIt;
+
+    private ArrayList<Tag> tags;
+    private ArrayList<Fragment> fragments;
+
+    public TagFragment(ArrayList<Tag> tags, ArrayList<Fragment> fragments) {
+        this.tags = tags;
+        this.fragments = fragments;
+    }
 
     @Override
+
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         context = getActivity();
+
+        ((AppCompatActivity) getActivity()).getSupportActionBar().setTitle("Tiếng nhật cơ bản");
+        ((AppCompatActivity) getActivity()).getSupportActionBar().setDisplayHomeAsUpEnabled(false);
+
     }
+
 
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.tag_fragment, null, false);
+        View view = inflater.inflate(R.layout.tag_fragment2, null, false);
         bindView(view);
         return view;
     }
 
-    public void bindView(View view) {
-        imgAlphabet = (ImageView) view.findViewById(R.id.imgAlphabet);
-        imgLesson = (ImageView) view.findViewById(R.id.imgLesson);
-        imgFavorite = (ImageView) view.findViewById(R.id.imgFavorite);
-        imgVocabulary = (ImageView) view.findViewById(R.id.imgVocabulary);
-        imgNote = (ImageView) view.findViewById(R.id.imgNote);
+    private void bindView(View view) {
+        recycleViewTag = (RecyclerView) view.findViewById(R.id.recycleViewTag);
+        tvJustDoIt = (TextView) view.findViewById(R.id.tvJustDoIt);
+        tvJustDoIt.setSelected(true);
+        tagAdapter = new TagAdapter(tags, context);
+        recycleViewTag.setLayoutManager(new GridLayoutManager(context, 2));
+        recycleViewTag.setAdapter(tagAdapter);
+        tagAdapter.setOnClickItemTag(this);
 
-        imgAlphabet.setOnClickListener(this);
-        imgLesson.setOnClickListener(this);
-        imgFavorite.setOnClickListener(this);
-        imgVocabulary.setOnClickListener(this);
-        imgNote.setOnClickListener(this);
     }
 
     @Override
-    public void onClick(View v) {
-        switch (v.getId()) {
-            case R.id.imgAlphabet: {
-                eventImgAlphabet();
-                break;
-            }
-            case R.id.imgLesson: {
-                eventImgLesson();
-                break;
-            }
-            case R.id.imgFavorite: {
-                eventImgFavorite();
-                break;
-            }
-            case R.id.imgVocabulary: {
-                eventVocabularyMinano();
-                break;
-            }
-            case R.id.imgNote: {
-                eventVocabularyMore();
-                break;
-            }
-        }
+    public void OnClickTag(View view, int position, ImageView imgBgTag) {
+        Fragment fragment = fragments.get(position);
+        FragmentControl.goToFragmentAddBackStack(R.id.framelayoutToolBar, fragment, context, fragment.getClass().getName());
     }
 
-    public void eventVocabularyMinano() {
-        ListVocabularyMinanoFragment minanoFragment = new ListVocabularyMinanoFragment();
-        FragmentControl.goToFragmentAddBackStack(R.id.framelayout, new ToolBarFragment(minanoFragment, isHideArrowLeft), context, getClass().getName());
-    }
-
-    public void eventVocabularyMore() {
-        ListCategoryFragment listCategoryFragment = new ListCategoryFragment();
-        FragmentControl.goToFragmentAddBackStack(R.id.framelayout, new ToolBarFragment(listCategoryFragment, isHideArrowLeft), context, getClass().getName());
-    }
-
-    public void eventImgFavorite() {
-        ViewPagerFileFragment vpgFd = new ViewPagerFileFragment();
-        FragmentControl.goToFragmentAddBackStack(R.id.framelayout, new ToolBarFragment(vpgFd, isHideArrowLeft), context, getClass().getName());
-    }
-
-    public void eventImgLesson() {
-        ListLessonFragment listLessonFragment = new ListLessonFragment();
-        FragmentControl.goToFragmentAddBackStack(R.id.framelayout, new ToolBarFragment(listLessonFragment, isHideArrowLeft), context, getClass().getName());
-    }
-
-    public void eventImgAlphabet() {
-        ViewPagerAlphabetFragment vpgAF = new ViewPagerAlphabetFragment(getStatusVisibleToogle());
-        FragmentControl.goToFragmentAddBackStack(R.id.framelayout, new ToolBarFragment(vpgAF, isHideArrowLeft), context, getClass().getName());
-    }
-
-
-    public Boolean getStatusVisibleToogle() {
-        //get status visible toggle in sharereference
-        this.isVisibleToggle = true;
-        return isVisibleToggle;
+    @Override
+    public void onResume() {
+        super.onResume();
+        ((AppCompatActivity) getActivity()).getSupportActionBar().setTitle("Tiếng nhật cơ bản");
     }
 }

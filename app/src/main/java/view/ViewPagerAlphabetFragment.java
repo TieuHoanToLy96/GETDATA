@@ -16,6 +16,7 @@ import com.example.tieuhoan.getdata.R;
 import java.util.ArrayList;
 
 import adapter.ViewPagerAlphabetAdapter;
+import model.Alphabet;
 
 /**
  * Created by TieuHoan on 14/05/2017.
@@ -28,9 +29,11 @@ public class ViewPagerAlphabetFragment extends Fragment {
     private ArrayList<Fragment> fragments;
     private ArrayList<String> titles;
     private Boolean isVisibleToggle;
+    private ArrayList<Alphabet> alphabets;
 
-    public ViewPagerAlphabetFragment(Boolean isVisibleToggle) {
+    public ViewPagerAlphabetFragment(Boolean isVisibleToggle, ArrayList<Alphabet> alphabets) {
         this.isVisibleToggle = isVisibleToggle;
+        this.alphabets = alphabets;
     }
 
     @Override
@@ -46,7 +49,6 @@ public class ViewPagerAlphabetFragment extends Fragment {
         View view = inflater.inflate(R.layout.viewpage_alphbet_fragment, null, false);
 
         bindView(view);
-
         return view;
 
 
@@ -58,8 +60,8 @@ public class ViewPagerAlphabetFragment extends Fragment {
         tabLayout = (TabLayout) view.findViewById(R.id.tabLayout);
 
         fragments = new ArrayList<>();
-        fragments.add(new AlphabetFragment(true, isVisibleToggle));
-        fragments.add(new AlphabetFragment(false, isVisibleToggle));
+        fragments.add(new AlphabetFragment(true, alphabets));
+        fragments.add(new AlphabetFragment(false, alphabets));
         titles = new ArrayList<>();
         titles.add("Hiragana");
         titles.add("Katakana");

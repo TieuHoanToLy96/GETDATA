@@ -25,25 +25,32 @@ import ulti.FragmentControl;
 
 public class ListVocabularyMinanoFragment extends Fragment implements ListVocabularyMinanoAdapter.OnClickVocMinanoLesson {
     private Context context;
-    private ArrayList<VocabularyMinanoLesson> minanoLessons;
-    private VocabularyMinanoLesson minanoLesson;
+
     private ListVocabularyMinanoAdapter minanoAdapter;
     private RecyclerView recyclerViewVocMinano;
+    private ArrayList<VocabularyMinanoLesson> minanoLessons;
+    private ArrayList<Fragment> fragments;
+    private VocabularyMinanoFragment minanoFragment;
+
+    public ListVocabularyMinanoFragment(ArrayList<VocabularyMinanoLesson> minanoLessons) {
+        this.minanoLessons = minanoLessons;
+    }
 
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        createNameMinanoLesson();
         context = getActivity();
+        initViewPager();
         ((AppCompatActivity) getActivity()).getSupportActionBar().setTitle("Từ vựng Minano Nihongo");
 
     }
 
-    public void createNameMinanoLesson() {
-        minanoLessons = new ArrayList<>();
+
+    public void initViewPager() {
+        fragments = new ArrayList<>();
         for (int i = 1; i < 51; i++) {
-            minanoLesson = new VocabularyMinanoLesson("Từ vựng Minano Nihongo Bài " + i);
-            minanoLessons.add(minanoLesson);
+             minanoFragment = new VocabularyMinanoFragment(i);
+            fragments.add(minanoFragment);
         }
     }
 
@@ -70,7 +77,7 @@ public class ListVocabularyMinanoFragment extends Fragment implements ListVocabu
 
     @Override
     public void OnClickVocMinano(View v, int position) {
-        ViewPagerVocMinanoFragment vocMinanoFragment = new ViewPagerVocMinanoFragment(position);
+        ViewPagerVocMinanoFragment vocMinanoFragment = new ViewPagerVocMinanoFragment(position, fragments);
         FragmentControl.goToFragmentAddBackStack(R.id.framelayoutToolBar, vocMinanoFragment, context, getClass().getName());
     }
 

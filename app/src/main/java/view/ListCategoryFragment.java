@@ -17,7 +17,6 @@ import java.util.ArrayList;
 
 import adapter.CategoryAdapter;
 import model.CategoryVocabulary;
-import ulti.Data;
 import ulti.FragmentControl;
 
 /**
@@ -32,17 +31,15 @@ public class ListCategoryFragment extends Fragment implements CategoryAdapter.On
     private CategoryAdapter categoryAdapter;
     private int numberColum = 3;
 
+    public ListCategoryFragment(ArrayList<CategoryVocabulary> categorys) {
+        this.categorys = categorys;
+    }
+
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         context = getActivity();
         ((AppCompatActivity) getActivity()).getSupportActionBar().setTitle("Từ vựng");
-//
-        Data data = new Data(context);
-        categorys = data.getCategoryVocabulary();
-
-
-//
     }
 
 

@@ -17,7 +17,6 @@ import java.util.ArrayList;
 
 import adapter.ListLessonAdapter;
 import model.Lesson;
-import ulti.Data;
 import ulti.FragmentControl;
 
 /**
@@ -31,6 +30,10 @@ public class ListLessonFragment extends Fragment implements ListLessonAdapter.On
     private ListLessonAdapter listLessonAdapter;
     private int numberColumLesson = 2;
 
+    public ListLessonFragment(ArrayList<Lesson> lessons) {
+        this.lessons = lessons;
+    }
+
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -42,18 +45,12 @@ public class ListLessonFragment extends Fragment implements ListLessonAdapter.On
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.list_lesson_fragment, null, false);
-
         bindVew(view);
-
-
-        Data data = new Data(context);
-        lessons = data.getLesson();
-
         return view;
     }
 
     private void bindVew(View view) {
-        listLessonAdapter = new ListLessonAdapter(new Data(context).getLesson(), context);
+        listLessonAdapter = new ListLessonAdapter(lessons, context);
         listLessonAdapter.setOnClickItemRecycleView(this);
 
         recyclerViewLesson = (RecyclerView) view.findViewById(R.id.recycleViewListLesson);
