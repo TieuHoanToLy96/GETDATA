@@ -19,6 +19,7 @@ import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.view.Gravity;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
@@ -45,7 +46,7 @@ import view.ViewPagerAlphabetFragment;
 import view.ViewPagerFileFragment;
 
 
-public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
+public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener, Toolbar.OnClickListener {
 
     private DrawerLayout drawerLayout;
 
@@ -88,15 +89,8 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
     private void initToolbar() {
         toolbar = (Toolbar) this.findViewById(R.id.my_toolbar);
-//        toolbar.setTitle("Tiếng nhật cơ bản");
-        toolbar.setTitleTextColor(Color.WHITE);
-//        toolbar.setNavigationIcon(R.drawable.menu);
         setSupportActionBar(toolbar);
-        getSupportActionBar().setHomeAsUpIndicator(R.drawable.menu);
-//        getSupportActionBar().setHomeButtonEnabled(true);
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-
-
+        toolbar.setTitleTextColor(Color.WHITE);
     }
 
 
@@ -187,6 +181,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 super.onDrawerOpened(drawerView);
                 invalidateOptionsMenu();
             }
+
             @Override
             public void onDrawerClosed(View drawerView) {
                 super.onDrawerClosed(drawerView);
@@ -264,7 +259,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         if (item.getItemId() == android.R.id.home) {
-            onBackPressed();
+            drawerLayout.openDrawer(Gravity.LEFT);
             return true;
         }
         return super.onOptionsItemSelected(item);
@@ -321,6 +316,13 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 selectNaviItem(listCategoryFragment);
                 break;
             }
+            case R.id.nav_file: {
+                ViewPagerFileFragment viewPagerFileFragment = new ViewPagerFileFragment();
+                selectNaviItem(viewPagerFileFragment);
+
+
+                break;
+            }
         }
         return true;
     }
@@ -330,6 +332,19 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         drawerLayout.closeDrawers();
         FragmentControl.removeFragmentInBackStack(this);
         FragmentControl.goToFragmentNoAddBackStack(R.id.framelayoutToolBar, fragment, this);
+    }
+
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        initToolbar();
+    }
+
+    @Override
+    public void onClick(View v) {
+
+
     }
     //    public class LessonDownLoad extends AsyncTask<Void, Void, Void> {
 //
@@ -442,5 +457,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 //            new LessonDownLoad().execute();
 //        }
 //    }
+
 
 }

@@ -45,10 +45,13 @@ public class TagFragment extends Fragment implements TagAdapter.OnClickItemTag {
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         context = getActivity();
+        setUpToolbar();
+    }
 
+    private void setUpToolbar() {
         ((AppCompatActivity) getActivity()).getSupportActionBar().setTitle("Tiếng nhật cơ bản");
-        ((AppCompatActivity) getActivity()).getSupportActionBar().setDisplayHomeAsUpEnabled(false);
-
+        ((AppCompatActivity) getActivity()).getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        ((AppCompatActivity) getActivity()).getSupportActionBar().setHomeAsUpIndicator(R.mipmap.menu_white);
     }
 
 
@@ -80,6 +83,6 @@ public class TagFragment extends Fragment implements TagAdapter.OnClickItemTag {
     @Override
     public void onResume() {
         super.onResume();
-        ((AppCompatActivity) getActivity()).getSupportActionBar().setTitle("Tiếng nhật cơ bản");
+        setUpToolbar();
     }
 }

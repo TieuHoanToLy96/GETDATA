@@ -59,7 +59,7 @@ public class ContentLessonAdapter extends RecyclerView.Adapter<RecyclerView.View
         return position == 0;
     }
 
-    @Override
+    @Override	
     public void onBindViewHolder(RecyclerView.ViewHolder holder, int position) {
 
         if (isPositionHeader(position)) {

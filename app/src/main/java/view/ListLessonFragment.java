@@ -7,7 +7,9 @@ import android.support.v4.app.Fragment;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.LayoutInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
@@ -30,6 +32,7 @@ public class ListLessonFragment extends Fragment implements ListLessonAdapter.On
     private ListLessonAdapter listLessonAdapter;
     private int numberColumLesson = 2;
 
+
     public ListLessonFragment(ArrayList<Lesson> lessons) {
         this.lessons = lessons;
     }
@@ -38,7 +41,7 @@ public class ListLessonFragment extends Fragment implements ListLessonAdapter.On
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         context = getActivity();
-        ((AppCompatActivity) getActivity()).getSupportActionBar().setTitle("Bài học");
+        setUpToolbar();
     }
 
     @Nullable
@@ -67,8 +70,29 @@ public class ListLessonFragment extends Fragment implements ListLessonAdapter.On
     }
 
     @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        if (item.getItemId() == android.R.id.home) {
+            getActivity().onBackPressed();
+            Log.e("tieuhoan", "click back");
+            return true;
+        }
+        return super.onOptionsItemSelected(item);
+    }
+
+
+    public void setUpToolbar() {
+
+        ((AppCompatActivity) getActivity()).getSupportActionBar().setTitle("Bài học");
+        ((AppCompatActivity) getActivity()).getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        ((AppCompatActivity) getActivity()).getSupportActionBar().setHomeAsUpIndicator(R.mipmap.back_arrow_white);
+
+
+    }
+
+
+    @Override
     public void onResume() {
         super.onResume();
-        ((AppCompatActivity) getActivity()).getSupportActionBar().setTitle("Bài học");
+        setUpToolbar();
     }
 }
